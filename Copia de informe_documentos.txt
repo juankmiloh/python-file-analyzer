@@ -1,0 +1,340 @@
+Archivo: /Users/bitsamericas/Downloads/doc_pdf/documento_pdf.docx
+Tipo: DOCX
+Palabras clave encontradas: casos de uso, alcance, caracteristicas, requisitos
+Número total de coincidencias: 5
+Recomendación de revisión: Media
+
+  Contexto para 'casos de uso':
+    1. ...
+casos de uso casos de usos Requisitos Alcance Características caracteristicas
+...
+
+  Contexto para 'alcance':
+    1. ...
+casos de uso casos de usos Requisitos Alcance Características caracteristicas
+...
+
+  Contexto para 'caracteristicas':
+    1. ...
+casos de uso casos de usos Requisitos Alcance Características caracteristicas
+...
+
+  Contexto para 'requisitos':
+    1. ...
+casos de uso casos de usos Requisitos Alcance Características caracteristicas
+...
+----------------------------------------
+
+Archivo: /Users/bitsamericas/Downloads/doc_pdf/GEN_026_Doc_Diseño_Ventas_Servicios_CERES V3AC[1579].pdf
+Tipo: PDF
+Palabras clave encontradas: requerimientos, requerimiento, funcionalidades, casos de uso, caso de uso, arquitectura, integración, alcance, contrato, avance, informe, revisión, desarrollo, manual, caracteristicas
+Número total de coincidencias: 514
+Recomendación de revisión: Alta
+
+  Contexto para 'requerimientos':
+    1. ...
+intervienen en el pronóstico de la oportunidad de venta (Incluir en Pronóstico y la Fecha de Cierre 
+de la Oportunidad). Por último, el calendario actualizado del pronóstico.  
+Luego de tener los requerimientos anteriores se pueden activar las métricas de los atributos de la 
+oportunidad de ventas:  
+• Ingreso de la oportunidad cerrada.
+...
+
+  Contexto para 'requerimiento':
+    1. ...
+con HCM ni con nómina.  
+• Se llevará a cabo la utilización de más de 1 medida de rendimientos o el uso de fórmulas 
+para cubrir el requerimiento de la recuperación en períodos semestrales.  
+ 
+Parametrización del sistema
+...
+    2. ...
+semestrales  
+ Hay recuperaciones semestrales, 
+requerimiento que no está 
+confirmado ya que no se verificó 
+si el sistema permite realizarlo.
+...
+    3. ...
+Administrar Ofertas de Servicio “Service Offering”  ✓   
+Generar Categorías  ✓   
+Exportación Masiva de Solicitud de Requerimiento  ✓   
+Importación Masiva de Solicitud de Requerimiento  ✓   
+Sandbox  ✓  
+...
+
+  Contexto para 'funcionalidades':
+    1. ...
+la gestión de clientes potenciales hasta el negocio cerrado.  
+Oracle CX Cloud le permite dar cobertura a su estrategia de Ges tión Comercial, con las siguientes 
+funcionalidades:  
+• OSC  
+o Gestión de Cuentas.
+...
+    2. ...
+El presente documento entrega los fundamentos de diseño  siendo de carácter incremental para 
+complementar el detalle de las siguientes etapas. Las funcionalidades para detallar  dentro del 
+documento son:  
+• Gestión de cuentas y contactos
+...
+    3. ...
+Propósito del documento  
+El propósito de este documento es explicar con un mayor detalle la solución y las funcionalidades 
+establecidas para la gestión comercial , específica mente:  
+• Contextualizar al usuario sobre los conceptos que son manejados comúnmente en la gestión
+...
+
+  Contexto para 'casos de uso':
+    1. ...
+Cargas Mas ivas de Datos  ................................ ................................ ................................ ...........................  114 
+Integraciones en Línea  ................................ ................................ ................................ ...............................  114 
+Casos de uso – Gestión Comercial  ................................ ................................ ................................ ...................  115 
+Caso de Uso: Crear una cuenta  ................................ ................................ ................................ ................  116 
+Caso de Uso: Modificar una cuenta  ................................ ................................ ................................ .........  117
+...
+    2. ...
+Asignaciones de participantes a los planes de compensación ................................ ........................  155 
+Roles para incentivos  ................................ ................................ ................................ ................................ ..... 156 
+Casos de uso de Incentivos  ................................ ................................ ................................ ..........................  158 
+Caso de Uso: Crear Plan de Incentivos  ................................ ................................ ................................ .. 158 
+Caso de Uso: Crear un componente de plan de incentivos  ................................ ..............................  159
+...
+    3. ...
+Cargas Masivas de Datos  ................................ ................................ ................................ ..........................  224 
+Integraciones en Línea  ................................ ................................ ................................ ..............................  224 
+Casos de Uso – Solicitudes de Servicio  ................................ ................................ ................................ .. 225 
+Puntos abiertos módulo de servicios  ................................ ................................ ................................ .............  352 
+Modulo Asesor Inteligente ................................ ................................ ................................ ............................  353
+...
+
+  Contexto para 'caso de uso':
+    1. ...
+Integraciones en Línea  ................................ ................................ ................................ ...............................  114 
+Casos de uso – Gestión Comercial  ................................ ................................ ................................ ...................  115 
+Caso de Uso: Crear una cuenta  ................................ ................................ ................................ ................  116 
+Caso de Uso: Modificar una cuenta  ................................ ................................ ................................ .........  117 
+Caso de Uso: Asociar un contacto a la cuenta  ................................ ................................ ......................  118
+...
+    2. ...
+Casos de uso – Gestión Comercial  ................................ ................................ ................................ ...................  115 
+Caso de Uso: Crear una cuenta  ................................ ................................ ................................ ................  116 
+Caso de Uso: Modificar una cuenta  ................................ ................................ ................................ .........  117 
+Caso de Uso: Asociar un contacto a la cuenta  ................................ ................................ ......................  118 
+Caso de Uso: Asociar un territorio a una cuenta  ................................ ................................ ..................  118
+...
+    3. ...
+Caso de Uso: Crear una cuenta  ................................ ................................ ................................ ................  116 
+Caso de Uso: Modificar una cuenta  ................................ ................................ ................................ .........  117 
+Caso de Uso: Asociar un contacto a la cuenta  ................................ ................................ ......................  118 
+Caso de Uso: Asociar un territorio a una cuenta  ................................ ................................ ..................  118 
+Caso  de Uso: Crear un contacto  ................................ ................................ ................................ ...............  119
+...
+
+  Contexto para 'arquitectura':
+    1. ...
+Diseño general de la solución  
+ 
+A nivel de arquitectura a alto nivel la solución contempla la implementación de las siguientes 
+aplicaciones/desarrollos:
+...
+    2. ...
+Ventas) de la planificación y ejecución de la venta (Citas, Actividades, Contactos, Clientes,  
+Ventas Potenciales, Oportunidades de Venta).  
+El principal objetivo de esta arquitectura de solución es poder brindar el soporte necesario para los 
+procesos que participan en el flujo de B2B. Siendo los procesos identificados los siguientes: Gestión 
+de cue ntas y contactos, Oportunidad potencial a oportunidad, Gestionar oportunidad y Cierre de
+...
+
+  Contexto para 'integración':
+    1. ...
+Informes y análisis de ventas  ................................ ................................ ................................ ............................  112 
+Reportes estándar  ................................ ................................ ................................ ................................ ............  112 
+Puntos de Integración  ................................ ................................ ................................ ................................ .........  114 
+Cargas Mas ivas de Datos  ................................ ................................ ................................ ...........................  114 
+Integraciones en Línea  ................................ ................................ ................................ ...............................  114
+...
+    2. ...
+Reportes  ................................ ................................ ................................ ................................ ........................  168 
+Tableros de información  ................................ ................................ ................................ ...........................  169 
+Puntos de Integración  ................................ ................................ ................................ ................................ .... 177 
+Cargas Masivas de Datos  ................................ ................................ ................................ ..........................  177 
+Puntos abiertos módulo de incentivos y compensaciones  ................................ ................................ ...... 178
+...
+    3. ...
+Reportes Estándar  ................................ ................................ ................................ ................................ ...... 199 
+Infolets  ................................ ................................ ................................ ................................ ...........................  214 
+Puntos de Integración  ................................ ................................ ................................ ................................ .... 224 
+Cargas Masivas de Datos  ................................ ................................ ................................ ..........................  224 
+Integraciones en Línea  ................................ ................................ ................................ ..............................  224
+...
+
+  Contexto para 'alcance':
+    1. ...
+herramientas empresariales a través de un modelo de adopción  de buenas prácticas 
+proporcionadas por  la Nube de experiencia del cliente  de Oracle  (Oracle Customer Experience 
+Cloud ), por lo tanto, el diseño general de esta solución estará enmarcado en el siguiente alcance 
+funcional:
+...
+    2. ...
+En cada proceso se especificará la particularidad de la solución en base a esta separación y que se 
+encuentren dentro del alcance del proyecto.  
+El enfoque de la solución está en base a la adopción de procesos estándar entregados por las 
+herramientas de Oracle CX Ventas ( Oracle CX Sales ).
+...
+    3. ...
+por información generada por los representantes de ventas desde OSC .  Las oportunidades 
+Potenciales también pueden ser cargadas masivamente en OSC  a través de plantillas estándar de 
+carga . (No contemplado en el alcance del proyecto)  
+A continuación, se presenta la pantalla de ejemplo de creación de Oportunidad Potencial, don de los 
+campos marcados con asterisco * son requeridos:
+...
+
+  Contexto para 'contrato':
+    1. ...
+Valor Pago inicial  X   
+Valor Renta mensual estimada  X   
+Valor Total Estimado del Contrato  X   
+Valor total estimado del contrato  X   
+Tipo de Oportunidad  X Tipo de Oportunidad
+...
+    2. ...
+Valor Renta mensual estimada  X   
+Valor Total Estimado del Contrato  X   
+Valor total estimado del contrato  X   
+Tipo de Oportunidad  X Tipo de Oportunidad  
+Cantidad de líneas estimada  X Cantidad de líneas estimada
+...
+
+  Contexto para 'avance':
+    1. ...
+Transición de estados  
+Para concluir el proceso de venta se debe cambiar el estado de la oportunidad de Abierta a Gana da, 
+Perdida o Sin Venta, quedando el campo % de avance con el valor del porcentaje de la etapa en la 
+cual quedó la oportunidad. Luego se activa un nuevo campo en el que se debe registrar el motivo 
+por el cual se Ganó, Perdió o no se vendió la oportunidad d e venta.
+...
+    2. ...
+Cerrar Oportunidad  
+Para concluir el proceso de venta se debe cambiar el estado de la oportunidad de Abierta a Ganada, 
+Perdida o Sin Venta, quedando el campo % de avance con el valor del porcentaje de l a etapa en la 
+cual quedó la oportunidad. Luego se activa un nuevo campo en el que se debe registrar el motivo 
+por el cual se Ganó, Perdió o no se vendió la oportunidad de venta.
+...
+    3. ...
+Cuenta  Y Indica la cuenta la que está vinculada la oportunidad  
+Etapa  de Venta  N Etapa  de venta de la oportunidad  
+% de avance  N Este campo manejará el % de avance a medida que avanza la etapa 
+del método de ventas  
+Estado
+...
+
+  Contexto para 'informe':
+    1. ...
+propietario de la cuenta, la dirección, la URL o el 
+sector para cada nivel de la jerarquía de la 
+organización del cliente. El informe se filtra para 
+mostrar sólo los clientes correspondientes al equipo 
+de cuentas del  usuario conectado.  x x x   X
+...
+    2. ...
+28 Mis tareas abiertas  Actualmente, ¿cuántas oportunidades con 
+antigüedad tengo en cada etapa de ventas?    x     X 
+29 Informe detallado de solicitud de 
+servicio para principales 
+oportunidades para ejecutivos
+...
+    3. ...
+servicio para principales 
+oportunidades para ejecutivos 
+de ventas  Informe detallado para vicepresidente de ventas - 
+Solicitud de servicio para principales oportunidades - 
+Informe de mosaico para Infolet          X
+...
+
+  Contexto para 'revisión':
+    1. ...
+Oracle  
+ 
+Responsables  de Revisión : 
+Nombre  Fecha  Rol Firma  
+Johanna Guerrero  04/11/2021  Usuario Ceres Servicios
+...
+    2. ...
+que en todos los procesos de venta se tienen que realizar, se puede ver el estado de estas 
+actividades (No iniciada, Cancelada, Completada, En curso, Retenida, etc.) esto es para tener 
+un mayor control de las actividades del representante de ventas y de revisión del proceso 
+que se esté realizando de la manera adecuad a.
+...
+    3. ...
+comercial de los gerentes regionales y jefes.  
+ 
+Se encargarán de la revisión de las diferentes 
+oportunidades de venta. Revisar las oportunidades 
+de venta cerradas por equipo de ventas.  • Monitorear
+...
+
+  Contexto para 'desarrollo':
+    1. ...
+NOTA:  Los valores  de las listas que se  reflejan en este documento , son una muestra  de 
+información  sobre las mismas son datos referencia les, las listas completas se encontraran en el 
+workbook, doc umento técnico  que se encuentra en desarrollo  
+ 
+• Producto : Campo desplegable. Valores : Arroz, Café, Atún, Insumos
+...
+    2. ...
+NOTA : Estas imágenes de pantalla son referenciales, las mismas serán ajustadas al proyecto de 
+ORF durante el proceso de configuración y desarrollo técnico  
+ 
+• Datos del cliente: Se van a solicitar los datos pertenecientes al cliente
+...
+    3. ...
+NOTA : Estas imágenes de pantalla son referenciales, las mismas serán ajustadas al proyecto de 
+ORF durante el proceso de configuración y desarrollo técnico  
+• Datos de la solicitud: Se solicitan los datos de la s olicitud
+...
+
+  Contexto para 'manual':
+    1. ...
+Para realizar la carga de la estructura organizacional  de ventas se debe generar el archivo de 
+importación con los datos de cada uno de los integrantes del equipo de ventas de cada una de las 
+organizaciones  o rea lizar la configuración de forma manual en la aplicación.  
+La Organización raíz debe ser creada en forma manual en la aplicación. Además de los datos de los 
+recursos se debe colocar el rol que va a tener dentro de esa organización. Se crea el recurso, el
+...
+    2. ...
+importación con los datos de cada uno de los integrantes del equipo de ventas de cada una de las 
+organizaciones  o rea lizar la configuración de forma manual en la aplicación.  
+La Organización raíz debe ser creada en forma manual en la aplicación. Además de los datos de los 
+recursos se debe colocar el rol que va a tener dentro de esa organización. Se crea el recurso, el 
+usuario (sino existe) y la organización.
+...
+    3. ...
+26 
+ NOTA : Las actividades se registrarán de forma manual en los objetos de cuentas, conta ctos, 
+oportunidades potenciales y oportunidades de venta.
+...
+
+  Contexto para 'caracteristicas':
+    1. ...
+entrada de datos simplificada para la gestión de prospectos.  
+OSC  y EC  Oracle Nube de Trabajo  (Oracle Engagement Cloud ), es el nombre de un nuevo conjunto 
+de características de servicio que Oracle  está lanzando junto con Oracle  Nube de Ventas  
+(OSC ), como un nuevo servicio . Estos servicios incluyen solicitudes de servicio  (PQR) , base 
+de conocimiento, roles de servicio, áreas temáticas de BI y otras funcionalidades mínimas
+...
+    2. ...
+• Cierre de oportunidad  
+Tanto los procesos de Administración de ventas como la Gestión de Cuentas y Contactos son 
+necesarios para ejecución del proceso de ventas, el primero defin e las características y 
+configuraciones de la venta y el segundo los detalles e información necesaria de Cuentas (y 
+contactos) para poder ejecutar un flujo de ventas satisfactorio.
+...
+    3. ...
+Planes de compensación  
+Según los acu erdos alcanzados en los talleres funcionales, se plantearon las siguientes 
+características y parámetros acerca de los planes de compensación:  
+• Habrá un total de 24 planes de compensación para ventas, 9 para cartera, 1 para 
+conductores y 1 para agrónomos.
+...
+----------------------------------------
+

@@ -1,0 +1,9150 @@
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Evol Arquitecto ORF[23]FIRMADO[3357].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Poliza ORF[1268].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 12.0 Política Ambiental[1950].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: correo envio acta petit 13 de diciembre 2022 Oracle[1354].pdf (PDF)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 1
+   avance: 1
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ORF Estado Proyecto Julio 10 2022 v2[1138].pdf (PDF)
+Total coincidencias: 16
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 1
+   avance: 4
+   informe: 0
+   revisión: 3
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 14_ Informacion Financiera 2021 DAC[1924].pdf (PDF)
+Total coincidencias: 46
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 4
+   avance: 1
+   informe: 18
+   revisión: 5
+   desarrollo: 9
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato ORF - CROWE Interventoria CERES[1380].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2. ACUERDO DE CONFIDENCIALIDAD T&G[2390].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Firmado ORF-SYWORK[3654].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.3 16052023[4223].pdf (PDF)
+Total coincidencias: 187
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 65
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 06.1 Politica del SGAnticorrupción[1940].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Mail - Evaluación de solución de costos del Proyecto Ceres - Outlook[2173].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 3
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Informe final Crowe completo[1136].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE TDH S.A_[3459].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato HKA Pos Firmado[1279].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.1 24042023[1348].pdf (PDF)
+Total coincidencias: 184
+   requerimientos: 21
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 63
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CERES_FCR_036_Taller_Gastos[3441].pdf (PDF)
+Total coincidencias: 59
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 1
+   informe: 43
+   revisión: 7
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO IMPLEMENTACIÓN MIDAS[3656].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Correo_ Angel Cruz E - Outlook aclaraciones de contrato  a costo fijo de suscripciones[1620].pdf (PDF)
+Total coincidencias: 24
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 6
+   contrato: 14
+   avance: 0
+   informe: 0
+   revisión: 3
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Firmado y Autenticado ORF-DyN_2021[1123].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CO-OD-10980478-ORF_S.A.-V3[1556].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 4MODEL~2[3144].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Propuesta Modelo operacion - RoaFlorhuila - Deloitte[3285].pdf (PDF)
+Total coincidencias: 84
+   requerimientos: 5
+   requerimiento: 4
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 19
+   contrato: 19
+   avance: 1
+   informe: 0
+   revisión: 20
+   desarrollo: 6
+   QA: 0
+   test: 0
+   manual: 0
+   características: 4
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Evol Arquitecto ORF[23]FIRMADO[3652].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Firmado ORF Por Ambas Partes[1451].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: HR_026_Doc_Diseño_Funcional_Ausencia_CERES AC[1879].pdf (PDF)
+Total coincidencias: 29
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 8
+   alcance: 1
+   contrato: 11
+   avance: 0
+   informe: 2
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 4
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2. ACUERDO DE CONFIDENCIALIDAD T&G[3339].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE ORF S.A_[3689].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: lic-online-toma-ph-colombia-esp-3936849[1560].pdf (PDF)
+Total coincidencias: 136
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 13
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 2
+   contrato: 109
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO IMPLEMENTACIÓN MIDAS[1410].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: DAVIVIENDA - C.C 380106001 - CAI 8664[3518].pdf (PDF)
+Total coincidencias: 51
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 44
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE ORF S.A_[2083].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Estimación Solicitud de Cambio S19 Playback2 (PB2)[1748].pdf (PDF)
+Total coincidencias: 17
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 5
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 7
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Respuesta 2 ORF V1.8 Final[1644].pdf (PDF)
+Total coincidencias: 14
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 4
+   avance: 3
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ACUERDO DE CONFIDENCIALIDAD FIRMADO POR DON HERNANDO  - OPCIONES ADMINISTRATIVAS[1257].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2062. POLIZA DE SEGURO DE CUMPLIMIENTO_ORF S.A_CR[1373].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CPQ-1978357-1-ORF_Licencias[1115].pdf (PDF)
+Total coincidencias: 29
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 6
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 17
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 1
+   manual: 1
+   características: 1
+   requisitos: 2
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE TDH S.A_[3690].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ACUERDO DE CONFIDENCIALIDAD FIRMADO POR LAS PARTES - OPCIONES ADMINISTRATIVAS[1258].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO SAAS OBLI. FINANCIERAS[3659].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO SAAS OBLI. FINANCIERAS[1413].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ACUERDO DE CONFIDENCIALIDAD ACTUALIZADO AÑO 2022[3084].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato de Bodyshopping FIRMADO[3356].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 13.2 Procedimiento de Gestión de Recursos Humanos[3043].pdf (PDF)
+Total coincidencias: 30
+   requerimientos: 0
+   requerimiento: 5
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 12
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 1
+   características: 3
+   requisitos: 6
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Propuesta Interventoría Implementación Oracle - Crowe[1384].pdf (PDF)
+Total coincidencias: 41
+   requerimientos: 6
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 9
+   contrato: 2
+   avance: 8
+   informe: 6
+   revisión: 1
+   desarrollo: 7
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 2
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CO-OD-10980478-ORF S.A.-V3draff[1227].pdf (PDF)
+Total coincidencias: 578
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 10
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 59
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 210526_Línea_de_Crédito_para_los_Servicios_de_Consultoría_OCS[1303].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 5
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 2
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.3 16052023[1529].pdf (PDF)
+Total coincidencias: 187
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 65
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Estimación Solicitud de Cambio S19 Playback2 (PB2)[2762].pdf (PDF)
+Total coincidencias: 17
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 5
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 7
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Observaciones 190521+DMP (2)[1652].xlsx (XLSX)
+Total coincidencias: 21
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 1
+   alcance: 10
+   contrato: 2
+   avance: 0
+   informe: 4
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: lic-online-toma-ph-colombia-esp-3936849[1117].pdf (PDF)
+Total coincidencias: 136
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 13
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 2
+   contrato: 109
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Evol Integracion ORF[77]FIRMADO[3653].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ORF Informe Final Ejecutivo V2[1142].pdf (PDF)
+Total coincidencias: 70
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 9
+   alcance: 4
+   contrato: 5
+   avance: 28
+   informe: 6
+   revisión: 6
+   desarrollo: 4
+   QA: 1
+   test: 0
+   manual: 0
+   características: 1
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.1 ACUERDO DE CONFIDENCIALIDAD ENTRE INVERSIONES Y OTRO[3024].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: OMA-Oracle Master Agreement - CO-OMA-CPQ-1895776 (1)[1108].pdf (PDF)
+Total coincidencias: 147
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 14
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 1
+   contrato: 119
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 4
+   QA: 0
+   test: 0
+   manual: 2
+   características: 1
+   requisitos: 4
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.2 ACUERDO DE CONFIDENCIALIDAD ENTRE ORF Y OTRO[3025].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ACTA KICKOFF INTERVENTORIA CERES-ORF-CROWE 13-06-2023[1152].docx (DOCX)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 13.2 Procedimiento de Gestión de Recursos Humanos[3198].pdf (PDF)
+Total coincidencias: 30
+   requerimientos: 0
+   requerimiento: 5
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 12
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 1
+   características: 3
+   requisitos: 6
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO SAAS MIDAS[3363].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 4MODEL~3[3145].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 4MODEL~2[3765].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Mail - Estimación Solicitud de Cambio S19 Playback2 (PB2) -Outlook[2172].pdf (PDF)
+Total coincidencias: 17
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 5
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 7
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: GEN_026_Doc_Diseño_Ventas_Servicios_CERES V3AC[1878].pdf (PDF)
+Total coincidencias: 561
+   requerimientos: 1
+   requerimiento: 5
+   especificaciones: 0
+   funcionalidades: 5
+   casos de uso: 39
+   caso de uso: 347
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 23
+   alcance: 7
+   contrato: 2
+   avance: 8
+   informe: 73
+   revisión: 18
+   desarrollo: 7
+   QA: 0
+   test: 0
+   manual: 21
+   características: 3
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CO-OD-10980478-ORF_S.A.-V3 Signed[1103].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 4MODEL~1[3764].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 66748-CPQ-1978357-1 - ORF SA(1) (1)[1102].pdf (PDF)
+Total coincidencias: 29
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 6
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 17
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 1
+   manual: 1
+   características: 1
+   requisitos: 2
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO IMPLEMENTACIÓN OBLI. FINANCIERAS[3362].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CPQ-1978357-1[1558].pdf (PDF)
+Total coincidencias: 29
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 6
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 17
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 1
+   manual: 1
+   características: 1
+   requisitos: 2
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 19.1 POLIZA -00066550 ORF[2700].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 2
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 2
+   contrato: 8
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.2 28042023[4222].pdf (PDF)
+Total coincidencias: 186
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 64
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.2 ACUERDO DE CONFIDENCIALIDAD ENTRE ORF Y OTRO[1934].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Propuesta Modelo operacion - RoaFlorhuila - Deloitte[1911].pdf (PDF)
+Total coincidencias: 84
+   requerimientos: 5
+   requerimiento: 4
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 19
+   contrato: 19
+   avance: 1
+   informe: 0
+   revisión: 20
+   desarrollo: 6
+   QA: 0
+   test: 0
+   manual: 0
+   características: 4
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.1 24042023[1527].pdf (PDF)
+Total coincidencias: 184
+   requerimientos: 21
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 63
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.2 ACUERDO DE CONFIDENCIALIDAD ENTRE ORF Y OTRO[3180].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Poliza65814 Signed[1448].pdf (PDF)
+Total coincidencias: 630
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 22
+   funcionalidades: 34
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 211
+   contrato: 100
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 47
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 17
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CO-OD-10980478-ORF_S.A.-V3[1310].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.3 ACUERDO DE CONFIDENCIALIDAD ENTRE TDH Y OTRO[3026].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: OTM_026_Doc_DisenÌ_o_OTM_CERES_V4(firmads)AC[2581].pdf (PDF)
+Total coincidencias: 316
+   requerimientos: 14
+   requerimiento: 101
+   especificaciones: 3
+   funcionalidades: 3
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 87
+   alcance: 43
+   contrato: 18
+   avance: 0
+   informe: 13
+   revisión: 8
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 17
+   características: 5
+   requisitos: 2
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ACUERDO DE CONFIDENCIALIDAD ACTUALIZADO AÑO 2022[2059].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO IMPLEMENTACIÓN OBLI. FINANCIERAS[3657].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Documento de Pedido - TB_ORF_v5 14Mar2023[1504].pdf (PDF)
+Total coincidencias: 25
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 4
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 4
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 1
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO SAAS MIDAS[1412].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2.3 NDA_transportes_del_Huila[3104].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 3
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.3 ACUERDO DE CONFIDENCIALIDAD ENTRE TDH Y OTRO[1935].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO IMPLEMENTACIÓN OBLI. FINANCIERAS[1411].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Respuesta 2 ORF V1.8 Final[1860].pdf (PDF)
+Total coincidencias: 14
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 4
+   avance: 3
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CO-OD-10980478-ORF_S.A.-V3[1104].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ACUERDO DE CONFIDENCIALIDAD ACTUALIZADO AÑO 2022[3665].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Propuesta Modelo operacion - RoaFlorhuila - Deloitte[1930].pdf (PDF)
+Total coincidencias: 84
+   requerimientos: 5
+   requerimiento: 4
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 19
+   contrato: 19
+   avance: 1
+   informe: 0
+   revisión: 20
+   desarrollo: 6
+   QA: 0
+   test: 0
+   manual: 0
+   características: 4
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 4MODEL~1[3143].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 12.0 Política Ambiental[3041].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE ORF S.A_[3458].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO SAAS MIDAS[3658].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ACTUALIZADO AÑO 2022[1085].docx (DOCX)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.1 ACUERDO DE CONFIDENCIALIDAD ENTRE INVERSIONES Y OTRO[3179].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato de Bodyshopping FIRMADO (4)[1128].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 06.1 Politica del SGAnticorrupción[3031].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: GEN_026_Doc_Diseño_Ventas_Servicios_CERES V3AC[1579].pdf (PDF)
+Total coincidencias: 561
+   requerimientos: 1
+   requerimiento: 5
+   especificaciones: 0
+   funcionalidades: 5
+   casos de uso: 39
+   caso de uso: 347
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 23
+   alcance: 7
+   contrato: 2
+   avance: 8
+   informe: 73
+   revisión: 18
+   desarrollo: 7
+   QA: 0
+   test: 0
+   manual: 21
+   características: 3
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 14_ Informacion Financiera 2021 DAC[3279].pdf (PDF)
+Total coincidencias: 46
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 4
+   avance: 1
+   informe: 18
+   revisión: 5
+   desarrollo: 9
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.3 ACUERDO DE CONFIDENCIALIDAD ENTRE TDH Y OTRO[3181].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE INVERSIONES ROA V. SOLANO S.A.S_[3457].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Respuesta 2 ORF V1.8 Final[1505].pdf (PDF)
+Total coincidencias: 14
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 4
+   avance: 3
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: GEN_026_Doc_Diseño_Ventas_Servicios_CERES V3AC[2564].pdf (PDF)
+Total coincidencias: 561
+   requerimientos: 1
+   requerimiento: 5
+   especificaciones: 0
+   funcionalidades: 5
+   casos de uso: 39
+   caso de uso: 347
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 23
+   alcance: 7
+   contrato: 2
+   avance: 8
+   informe: 73
+   revisión: 18
+   desarrollo: 7
+   QA: 0
+   test: 0
+   manual: 21
+   características: 3
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo No.4 Controles de Cambio[1610].xlsx (XLSX)
+Total coincidencias: 42
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 7
+   diseño del sistema: 0
+   integración: 25
+   alcance: 2
+   contrato: 0
+   avance: 1
+   informe: 3
+   revisión: 3
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Acuerdo de Confidencialidad gestión del cambio (1)[1607].docx (DOCX)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 2
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 19. Poliza de Seriedad de la Oferta_ENTELGY[3759].pdf (PDF)
+Total coincidencias: 20
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 2
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 2
+   contrato: 15
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.2 28042023[1349].pdf (PDF)
+Total coincidencias: 186
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 64
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Firmado y Autenticado ORF-DyN_2021[3360].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 06.1 Politica del SGAnticorrupción[3186].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 02.1 ACUERDO DE CONFIDENCIALIDAD ENTRE INVERSIONES Y OTRO[1933].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE INVERSIONES ROA V. SOLANO S.A.S_[3688].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo No. 5 Acuerdo de Confidencialidad[1308].docx (DOCX)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 2
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: HR_026_Doc_Diseño_Funcional_Ausencia_CERES AC[1580].pdf (PDF)
+Total coincidencias: 29
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 8
+   alcance: 1
+   contrato: 11
+   avance: 0
+   informe: 2
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 4
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Evol Integracion ORF[77]FIRMADO[1369].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 4MODEL~3[3766].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo No. 5 Acuerdo de Confidencialidad[1148].docx (DOCX)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 2
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 1. EEFF Crowe CO S.A.S. Dic 2022-2021 NIIF 08_02_2023 Firmados[1372].pdf (PDF)
+Total coincidencias: 45
+   requerimientos: 2
+   requerimiento: 2
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 13
+   avance: 2
+   informe: 9
+   revisión: 7
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 4
+   requisitos: 2
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato de Bodyshopping FIRMADO[3651].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 13.2 Procedimiento de Gestión de Recursos Humanos[2352].pdf (PDF)
+Total coincidencias: 30
+   requerimientos: 0
+   requerimiento: 5
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 12
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 1
+   características: 3
+   requisitos: 6
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 1ORF Informe Final Ejecutivo V2[1134].pdf (PDF)
+Total coincidencias: 70
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 9
+   alcance: 4
+   contrato: 5
+   avance: 28
+   informe: 6
+   revisión: 6
+   desarrollo: 4
+   QA: 1
+   test: 0
+   manual: 0
+   características: 1
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2.1 NDA_inversiones_[3102].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 3
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Evol Arquitecto ORF[23]FIRMADO[1368].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 14_ Informacion Financiera 2021 DAC[3474].pdf (PDF)
+Total coincidencias: 46
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 4
+   avance: 1
+   informe: 18
+   revisión: 5
+   desarrollo: 9
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Evol Integracion ORF[77]FIRMADO[3358].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Acuerdo de confidencialidad ORF - CROWE[1375].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO SAAS OBLI. FINANCIERAS[3364].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Firmado y Autenticado ORF-DyN_2021[3655].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: HR_026_Doc_Diseño_Funcional_Ausencia_CERES AC[2565].pdf (PDF)
+Total coincidencias: 29
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 8
+   alcance: 1
+   contrato: 11
+   avance: 0
+   informe: 2
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 4
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO IMPLEMENTACIÓN MIDAS[3361].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Acuerdo de Confidencialidad gestión del cambio (1)[1464].docx (DOCX)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 2
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CONTRATO_ENTELGY_IFRS[2838].pdf (PDF)
+Total coincidencias: 126
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 2
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 98
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 16
+   QA: 0
+   test: 0
+   manual: 1
+   características: 1
+   requisitos: 0
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE INVERSIONES ROA V. SOLANO S.A.S_[2082].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Correo_ Angel Cruz E - Outlook aclaraciones de contrato  a costo fijo de suscripciones[1475].pdf (PDF)
+Total coincidencias: 24
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 6
+   contrato: 14
+   avance: 0
+   informe: 0
+   revisión: 3
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: DAVIVIENDA - C.C 380106001 - CAI 8664 - OTRO SI Nº 3[3788].pdf (PDF)
+Total coincidencias: 121
+   requerimientos: 0
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 4
+   contrato: 89
+   avance: 0
+   informe: 2
+   revisión: 3
+   desarrollo: 9
+   QA: 0
+   test: 0
+   manual: 3
+   características: 0
+   requisitos: 5
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2. ACUERDO DE CONFIDENCIALIDAD T&G[2940].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 12.0 Política Ambiental[3196].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: CO-10980478-ORF_S.A.-V3_Contrato[1114].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Contrato Firmado ORF-SYWORK[3359].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: OFICIO RESPUESTA ORACLE[1457].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Notificacion de Cesion_140489_Organizacion ROA Flor Huila[1314].pdf (PDF)
+Total coincidencias: 68
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 66
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 1
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: OTM_026_Doc_DisenÌ_o_OTM_CERES_V4(firmads)AC[1596].pdf (PDF)
+Total coincidencias: 316
+   requerimientos: 14
+   requerimiento: 101
+   especificaciones: 3
+   funcionalidades: 3
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 87
+   alcance: 43
+   contrato: 18
+   avance: 0
+   informe: 13
+   revisión: 8
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 17
+   características: 5
+   requisitos: 2
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.3 16052023[1350].pdf (PDF)
+Total coincidencias: 187
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 65
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 2.2 NDA_ORF[3103].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 3
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.1 24042023[4221].pdf (PDF)
+Total coincidencias: 184
+   requerimientos: 21
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 63
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: 19. Poliza de Seriedad de la Oferta_ENTELGY[3138].pdf (PDF)
+Total coincidencias: 20
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 2
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 2
+   contrato: 15
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ENTRE TDH S.A_[2084].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.2 28042023[1528].pdf (PDF)
+Total coincidencias: 186
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 64
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ACTUALIZADO AÑO 2023 Crowe[1382].docx (DOCX)
+Total coincidencias: 9
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 5
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Alcance[4451].pdf (PDF)
+Total coincidencias: 578
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 10
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 59
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: MODELO DE ACUERDO DE CONFIDENCIALIDAD ACTUALIZADO AÑO 2023 Crowe - 5 de junio de 2023[1381].docx (DOCX)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 5
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo No.4 Controles de Cambio[1566].xlsx (XLSX)
+Total coincidencias: 42
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 7
+   diseño del sistema: 0
+   integración: 25
+   alcance: 2
+   contrato: 0
+   avance: 1
+   informe: 3
+   revisión: 3
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Aclaraciones informe No.2 inteventoría3[1460].docx (DOCX)
+Total coincidencias: 73
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 2
+   casos de uso: 2
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 1
+   alcance: 22
+   contrato: 11
+   avance: 5
+   informe: 10
+   revisión: 7
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Aclaraciones informe No.2 inteventoría3[1603].docx (DOCX)
+Total coincidencias: 73
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 2
+   casos de uso: 2
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 1
+   alcance: 22
+   contrato: 11
+   avance: 5
+   informe: 10
+   revisión: 7
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo No.4 Controles de Cambio[1856].xlsx (XLSX)
+Total coincidencias: 42
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 7
+   diseño del sistema: 0
+   integración: 25
+   alcance: 2
+   contrato: 0
+   avance: 1
+   informe: 3
+   revisión: 3
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo No.4 Controles de Cambio[1111].xlsx (XLSX)
+Total coincidencias: 42
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 7
+   diseño del sistema: 0
+   integración: 25
+   alcance: 2
+   contrato: 0
+   avance: 1
+   informe: 3
+   revisión: 3
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo 6 Condiciones Técnicas esenciales para la implementación del Proyecto de transformación digital de las empresas[1147].docx (DOCX)
+Total coincidencias: 166
+   requerimientos: 38
+   requerimiento: 3
+   especificaciones: 3
+   funcionalidades: 7
+   casos de uso: 1
+   caso de uso: 4
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 9
+   alcance: 6
+   contrato: 30
+   avance: 3
+   informe: 0
+   revisión: 4
+   desarrollo: 49
+   QA: 0
+   test: 0
+   manual: 0
+   características: 2
+   requisitos: 2
+   requisito: 3
+
+Ruta: /Users/bitsamericas/Downloads
+Archivo: Anexo 6 Condiciones Técnicas esenciales para la implementación del Proyecto de transformación digital de las empresas[1307].docx (DOCX)
+Total coincidencias: 166
+   requerimientos: 38
+   requerimiento: 3
+   especificaciones: 3
+   funcionalidades: 7
+   casos de uso: 1
+   caso de uso: 4
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 9
+   alcance: 6
+   contrato: 30
+   avance: 3
+   informe: 0
+   revisión: 4
+   desarrollo: 49
+   QA: 0
+   test: 0
+   manual: 0
+   características: 2
+   requisitos: 2
+   requisito: 3
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 25 de Abril 2022 v2[1993].pdf (PDF)
+Total coincidencias: 13
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 1
+   alcance: 1
+   contrato: 0
+   avance: 2
+   informe: 5
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_TYG[3303].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re CERES Petit Comité[3814].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CCB_25_Octubre_2022[2060].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 03. Cámara Comercio TSNET 18abril23[1936].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 3
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Informe final Crowe completo[1136].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta Petit Comité 1Abr2022 - Proyecto CERES[1703].pdf (PDF)
+Total coincidencias: 5
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 3
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERTIFICADO EXISTENCIA Y REPRESENTACIÓN LEGAL_ENTELGY[3778].pdf (PDF)
+Total coincidencias: 20
+   requerimientos: 3
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Fwd CERES Petit Comité[2103].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Criterios de aceptación  - Pruebas Verticalesnov[1099].pdf (PDF)
+Total coincidencias: 2
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Propuesta T&G  Proyecto Aplicativos Oracle en Grupo ORF VF_compressed[2927].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Propuesta T&G  Proyecto Aplicativos Oracle en Grupo ORF VF_compressed[3726].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 25 Octubre 2022[2790].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 1
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: correo acta 13 dic suspension de proyecto Ceres[1353].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CCB_25_Octubre_2022[3666].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 3. PROPUESTA T&G  PROYECTO APLICATIVOS ORACLE EN GRUPO ORF_compressed (1)[3340].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 18 Octubre 2022 [2786].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 21 de Enero de 2022[1992].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 3
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta de Entrega Contrato GC_Noviembre 2022 firmado[1122].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 0
+   contrato: 4
+   avance: 1
+   informe: 0
+   revisión: 2
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE Casos de uso para PB3 de venta en consignación[4124].pdf (PDF)
+Total coincidencias: 19
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 9
+   caso de uso: 4
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 3
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-ODA1-11943151-ORF S.A.-v1 Signed[1105].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 3
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 28 octubre de 2022[2793].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 3CERTI~1[3760].PDF (PDF)
+Total coincidencias: 20
+   requerimientos: 3
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Correo_ Angel Cruz E - Outlook[1485].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 0
+   contrato: 4
+   avance: 1
+   informe: 0
+   revisión: 2
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Entrega No 1 Integraciones aclaracion entrega integraciones mcia en consignacion[1489].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 6
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta de Entrega Contrato GC_Noviembre 2022AC[1605].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 0
+   contrato: 4
+   avance: 1
+   informe: 0
+   revisión: 2
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 3. Cámara de Comercio_SISTEMAS COLOMBIA SAS_10ABR2023[3105].pdf (PDF)
+Total coincidencias: 19
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 10
+   avance: 0
+   informe: 1
+   revisión: 1
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Nomina JD - Entrega Documentacion[1536].docx (DOCX)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Cierre_Entorno_Configurado FIRMADO_25Abr2022AC[4188].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re CERES - Revisión Ampliación Información Escenario Replanificación BigBang ORF[4035].pdf (PDF)
+Total coincidencias: 9
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 8
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.3 16052023[4223].pdf (PDF)
+Total coincidencias: 187
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 65
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta de Entrega Contrato GC_Noviembre 2022AC[1462].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 0
+   contrato: 4
+   avance: 1
+   informe: 0
+   revisión: 2
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 26 Octubre 2022[2791].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 8
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO IMPLEMENTACIÓN MIDAS[3656].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta Petit Comité 1Abr2022 - Proyecto CERES[3729].pdf (PDF)
+Total coincidencias: 5
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 3
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 11  octubre 2022 [2782].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.1 24042023[1348].pdf (PDF)
+Total coincidencias: 184
+   requerimientos: 21
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 63
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato Firmado y Autenticado ORF-DyN_2021[1123].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ORF Informe Final Ejecutivo V2[1142].pdf (PDF)
+Total coincidencias: 70
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 9
+   alcance: 4
+   contrato: 5
+   avance: 28
+   informe: 6
+   revisión: 6
+   desarrollo: 4
+   QA: 1
+   test: 0
+   manual: 0
+   características: 1
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Suspensión del Proyecto  20-06-2023[1100].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: hoja de control de documentos interventoria[1158].xlsx (XLSX)
+Total coincidencias: 546
+   requerimientos: 290
+   requerimiento: 3
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 7
+   caso de uso: 0
+   arquitectura: 50
+   diseño del sistema: 0
+   integración: 11
+   alcance: 12
+   contrato: 15
+   avance: 84
+   informe: 41
+   revisión: 28
+   desarrollo: 2
+   QA: 0
+   test: 1
+   manual: 1
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Cierre_Entorno_Configurado FIRMADO_25Abr2022AC[1332].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re Capacidades[2476].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato Firmado ORF Por Ambas Partes[1451].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES Inicio de Talleres Familiarización Finanzas y Compras[4458].pdf (PDF)
+Total coincidencias: 23
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 12
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 4
+   desarrollo: 2
+   QA: 0
+   test: 1
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Ejecutiva 03 de Septiembre Versión 2[1537].pdf (PDF)
+Total coincidencias: 13
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 3
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 1
+   avance: 1
+   informe: 0
+   revisión: 4
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: DAVIVIENDA - C.C 380106001 - CAI 8664[3518].pdf (PDF)
+Total coincidencias: 51
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 44
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 7 de Febrero de 2022 (1)[1461].pdf (PDF)
+Total coincidencias: 13
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 7
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 4
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato Firmado ORF-SYWORK[3654].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato de Bodyshopping FIRMADO[3356].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Entrega Servicio IP 249-GPY-ORF[1606].pdf (PDF)
+Total coincidencias: 21
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 2
+   caso de uso: 0
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 7
+   informe: 1
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Propuesta T&G  Proyecto Aplicativos Oracle en Grupo ORF VF_compressed-1[3725].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERTIFICADO EXISTENCIA Y REPRESENTACIÓN LEGAL_ENTELGY[1344].pdf (PDF)
+Total coincidencias: 20
+   requerimientos: 3
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Entrega Servicio IP 249-GPY-ORF[1256].pdf (PDF)
+Total coincidencias: 21
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 2
+   caso de uso: 0
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 7
+   informe: 1
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_TYG[2903].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta  de incio del proyecto V1 firmado[1097].pdf (PDF)
+Total coincidencias: 9
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 1
+   contrato: 2
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta Petit Comité 25Feb2022[3730].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES - Petit Comite Acta de Reunión 03 de Septiembre[2467].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_SISTEMAS COLOMBIA[4131].pdf (PDF)
+Total coincidencias: 19
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 10
+   avance: 0
+   informe: 1
+   revisión: 1
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Sesion Seguridad ORF[2968].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 2
+   informe: 1
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Costos[2424].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4MODEL~2[3144].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: correo envio acta petit 13 de diciembre 2022 Oracle[1354].pdf (PDF)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 1
+   avance: 1
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Mail - RE Información requerida Interventoría CERES1 - Outlook[2267].pdf (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 4
+   avance: 3
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE Priorización de Sesiones de Replaneación de Proyecto Ceres[4246].pdf (PDF)
+Total coincidencias: 2
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Mail -Re Información para interventoría - Outlook[2272].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Correo_ Angel Cruz E - Outlook[1630].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 0
+   contrato: 4
+   avance: 1
+   informe: 0
+   revisión: 2
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 2
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: OTROSI BODYSHOPPING[1130].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Mail - RE Información para interventoría - Outlook[2264].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 1
+   informe: 1
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO IMPLEMENTACIÓN MIDAS[1410].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re CERES Petit Comité[4036].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Fwd CERES Petit Comité[3856].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4. CAMARA MARZO 2023[2392].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 3. PROPUESTA T&G  PROYECTO APLICATIVOS ORACLE EN GRUPO ORF_compressed (1)[2941].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES _ Petit Comite Ejecutivo 09 de Agosto 2021[2756].pdf (PDF)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-OD-10980478-ORF S.A.-V3draff[1227].pdf (PDF)
+Total coincidencias: 578
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 10
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 59
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES _ Petit Comite Ejecutivo 09 de Agosto 2021[1988].pdf (PDF)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 20 Octubre 2022_[2788].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 4
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE  Priorización de Sesiones de Replaneación de Proyecto Ceres[1763].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 2
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_TSNET[3995].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 3
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Reporte Empleado vs Responsable[4170].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CCB_25_Octubre_2022[3085].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 03. Cámara Comercio TSNET 18abril23[3182].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 3
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE Confirmación de Controles de cambio dados de baja Proyecto Ceres[4252].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.3 16052023[1529].pdf (PDF)
+Total coincidencias: 187
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 65
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_TYG[3702].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4. CAMARA MARZO 2023[3341].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-OD-10980478-ORF_S.A.-V3[1556].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 19 Octubre 2022[2787].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Propuesta T&G  Proyecto Aplicativos Oracle en Grupo ORF VF_compressed[3326].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4MODEL~3[3145].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Formato Acta de Entrega AACE - Proyecto CERES -Prioridad Leandro[1361].docx (DOCX)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4MODEL~2[3765].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Cierre_Post-Produccion FIRMADO_25Abr2022AC[4189].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Cierre_Post-Produccion FIRMADO_25Abr2022AC[1333].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ACTA KICKOFF INTERVENTORIA CERES-ORF-CROWE 13-06-2023[1152].docx (DOCX)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.2 28042023[4222].pdf (PDF)
+Total coincidencias: 186
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 64
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4MODEL~1[3764].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE Priorización de Sesiones de Replaneación de Proyecto Ceres 1[1773].pdf (PDF)
+Total coincidencias: 2
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-OD-10980478-ORF_S.A.-V3 Signed[1103].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES _ Petit Comite Ejecutivo 09 de Agosto 2021[3010].pdf (PDF)
+Total coincidencias: 6
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO IMPLEMENTACIÓN OBLI. FINANCIERAS[3362].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 19.1 POLIZA -00066550 ORF[2700].pdf (PDF)
+Total coincidencias: 12
+   requerimientos: 0
+   requerimiento: 2
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 2
+   contrato: 8
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 1. EVOL - Liquidación Servicios (Arquitecto Oracle) v1[1367].pdf (PDF)
+Total coincidencias: 7
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 5
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-OD-10980478-ORF_S.A.-V3[1310].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Poliza65814 Signed[1448].pdf (PDF)
+Total coincidencias: 630
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 22
+   funcionalidades: 34
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 211
+   contrato: 100
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 47
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 17
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 21 Octubre 2022[2789].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 14. ESTADOS FINANCIEROS Y DICTAMEN (2022)[3753].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 5
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta Petit Comité 25Feb2022[1704].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta_Entrega Servicio IP 249-GPY-ORF[1463].pdf (PDF)
+Total coincidencias: 21
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 2
+   caso de uso: 0
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 7
+   informe: 1
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES Petit Comité[3378].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 13 Octubre 2022[2784].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.1 24042023[1527].pdf (PDF)
+Total coincidencias: 184
+   requerimientos: 21
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 63
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re Capacidades[2614].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO IMPLEMENTACIÓN OBLI. FINANCIERAS[3657].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re Sesion Seguridad ORF[4506].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 2
+   informe: 1
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 7 octubre Incapacidades[2794].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ESTADOS FINANCIEROS Y DICTAMEN 2022_ENTELGY[3792].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 5
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES Petit Comité[3600].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ESTADOS FINANCIEROS Y DICTAMEN 2022_ENTELGY[1347].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 5
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 25 de Febrero de 2022[1994].docx (DOCX)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO IMPLEMENTACIÓN OBLI. FINANCIERAS[1411].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta de cierre PB2 de costos[4154].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 03_Certificado de Existencia y Representación Legal[3466].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_TSNET[1515].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 3
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Sesion Seguridad ORF[4513].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 2
+   informe: 1
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4MODEL~1[3143].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-OD-10980478-ORF_S.A.-V3[1104].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE   CERES - Plan de trabajo PBCS ORF[3897].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 19 de Septiembre de 2022 v0.2[1991].pdf (PDF)
+Total coincidencias: 24
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 5
+   caso de uso: 0
+   arquitectura: 3
+   diseño del sistema: 0
+   integración: 1
+   alcance: 4
+   contrato: 3
+   avance: 2
+   informe: 1
+   revisión: 2
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO_ENTELGY_IFRS[3782].pdf (PDF)
+Total coincidencias: 62
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 3
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 17
+   alcance: 4
+   contrato: 23
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 10
+   QA: 0
+   test: 0
+   manual: 1
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: OC_FIN_Impuestos  Localizacion_DiseÃo_Funcional_ORF_COL_V 1.3AC[1592].pdf (PDF)
+Total coincidencias: 118
+   requerimientos: 14
+   requerimiento: 5
+   especificaciones: 4
+   funcionalidades: 2
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 14
+   alcance: 11
+   contrato: 3
+   avance: 0
+   informe: 48
+   revisión: 7
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 5
+   características: 2
+   requisitos: 1
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta -SyWork-ORF Instalacion de infraestructura en OCI 22-10-2021 (1)[1094].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Propuesta T&G  Proyecto Aplicativos Oracle en Grupo ORF VF_compressed-1[2926].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE   CERES - Plan de trabajo PBCS ORF[2249].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 22 de Octubre 2021[1980].pdf (PDF)
+Total coincidencias: 16
+   requerimientos: 2
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 3
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 1
+   alcance: 1
+   contrato: 2
+   avance: 3
+   informe: 0
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERTIFICADO EXISTENCIA Y REPRESENTACIÓN LEGAL_ENTELGY[3507].pdf (PDF)
+Total coincidencias: 20
+   requerimientos: 3
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 10  octubre 2022[2781].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 14 Octubre 2022 [2785].pdf (PDF)
+Total coincidencias: 2
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato de Bodyshopping FIRMADO (4)[1128].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ACTA FINAL CON FIRMAS[1702].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 7 de Febrero de 2022[1996].pdf (PDF)
+Total coincidencias: 13
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 7
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 4
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: OC_FIN_Impuestos  Localizacion_DiseÃo_Funcional_ORF_COL_V 1.3AC[2577].pdf (PDF)
+Total coincidencias: 118
+   requerimientos: 14
+   requerimiento: 5
+   especificaciones: 4
+   funcionalidades: 2
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 14
+   alcance: 11
+   contrato: 3
+   avance: 0
+   informe: 48
+   revisión: 7
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 5
+   características: 2
+   requisitos: 1
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta  - Familiarización del procesos, cuestionario, Procesos y escenarios[1096].docx (DOCX)
+Total coincidencias: 2
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 1
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Mail - Acta aclaración validación tiempos de ejecución cronograma por casos relevados de Play back 2 y 3 - Outlook[2167].pdf (PDF)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 4
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Relación documentos 8. Informes avance[1167].docx (DOCX)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.2 28042023[1349].pdf (PDF)
+Total coincidencias: 186
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 64
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_SISTEMAS COLOMBIA[3429].pdf (PDF)
+Total coincidencias: 19
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 10
+   avance: 0
+   informe: 1
+   revisión: 1
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 29 de Julio de 2022[1995].pdf (PDF)
+Total coincidencias: 15
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 5
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 2
+   contrato: 0
+   avance: 4
+   informe: 0
+   revisión: 2
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato Firmado y Autenticado ORF-DyN_2021[3360].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE Confirmación de Controles de cambio dados de baja Proyecto Ceres[2194].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 1. EEFF Crowe CO S.A.S. Dic 2022-2021 NIIF 08_02_2023 Firmados[1372].pdf (PDF)
+Total coincidencias: 45
+   requerimientos: 2
+   requerimiento: 2
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 13
+   avance: 2
+   informe: 9
+   revisión: 7
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 4
+   requisitos: 2
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Entrega No 1 Integraciones[4161].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 6
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4MODEL~3[3766].PDF (PDF)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 4
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_SISTEMAS COLOMBIA[3121].pdf (PDF)
+Total coincidencias: 19
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 10
+   avance: 0
+   informe: 1
+   revisión: 1
+   desarrollo: 5
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite - Definición módulo de costos[2457].doc (DOC)
+Total coincidencias: 8
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 1
+   contrato: 2
+   avance: 0
+   informe: 1
+   revisión: 2
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 27 Octubre 2022[2792].pdf (PDF)
+Total coincidencias: 18
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 18
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 1ORF Informe Final Ejecutivo V2[1134].pdf (PDF)
+Total coincidencias: 70
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 9
+   alcance: 4
+   contrato: 5
+   avance: 28
+   informe: 6
+   revisión: 6
+   desarrollo: 4
+   QA: 1
+   test: 0
+   manual: 0
+   características: 1
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - F-0123_7 Acta de reunión 2[1535].doc (DOC)
+Total coincidencias: 14
+   requerimientos: 4
+   requerimiento: 3
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 3
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato de Bodyshopping FIRMADO[3651].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: F-0117_6  Acta Entrega de Puesto[1129].doc (DOC)
+Total coincidencias: 4
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 2
+   revisión: 1
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 1
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite - Definición de proceso solución Paddy[2456].doc (DOC)
+Total coincidencias: 2
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 2
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 3CERTI~1[3139].PDF (PDF)
+Total coincidencias: 20
+   requerimientos: 3
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 11
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 3
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 14. ESTADOS FINANCIEROS Y DICTAMEN (2022)[3132].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 5
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 03_Certificado de Existencia y Representación Legal[1915].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE  Priorización de Sesiones de Replaneación de Proyecto Ceres[4324].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 2
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Transforma - Entrega Servicio IP 249-GPY-ORF[1539].pdf (PDF)
+Total coincidencias: 21
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 2
+   caso de uso: 0
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 7
+   informe: 1
+   revisión: 0
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA DE COMERCIO CROWE CO S.A.S.  08 JUNIO 2023[1377].pdf (PDF)
+Total coincidencias: 27
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 3
+   avance: 0
+   informe: 1
+   revisión: 2
+   desarrollo: 13
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 4
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato Firmado y Autenticado ORF-DyN_2021[3655].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ACTA FINAL CON FIRMAS[3581].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: DRAFT ORF_ODA1_v4[1559].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 3
+   diseño del sistema: 0
+   integración: 0
+   alcance: 3
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO IMPLEMENTACIÓN MIDAS[3361].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CERES - Petit Comite Acta de Reunión 03 de Septiembre[1812].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO_ENTELGY_IFRS[3511].pdf (PDF)
+Total coincidencias: 62
+   requerimientos: 2
+   requerimiento: 0
+   especificaciones: 1
+   funcionalidades: 3
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 17
+   alcance: 4
+   contrato: 23
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 10
+   QA: 0
+   test: 0
+   manual: 1
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CONTRATO_ENTELGY_IFRS[2838].pdf (PDF)
+Total coincidencias: 126
+   requerimientos: 4
+   requerimiento: 1
+   especificaciones: 2
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 98
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 16
+   QA: 0
+   test: 0
+   manual: 1
+   características: 1
+   requisitos: 0
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ACTA DE RECIBIDO RECURSO DE INTEGRACIÓN Y CARGA DE DATOS[1126].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ESTADOS FINANCIEROS Y DICTAMEN 2022_ENTELGY[3521].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 4
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 5
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re Sesion Seguridad ORF[2637].pdf (PDF)
+Total coincidencias: 3
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 2
+   informe: 1
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: DAVIVIENDA - C.C 380106001 - CAI 8664 - OTRO SI Nº 3[3788].pdf (PDF)
+Total coincidencias: 121
+   requerimientos: 0
+   requerimiento: 1
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 4
+   alcance: 4
+   contrato: 89
+   avance: 0
+   informe: 2
+   revisión: 3
+   desarrollo: 9
+   QA: 0
+   test: 0
+   manual: 3
+   características: 0
+   requisitos: 5
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 4. CAMARA MARZO 2023[2942].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Contrato Firmado ORF-SYWORK[3359].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite 7 de Febrero de 2022 (1)[1604].pdf (PDF)
+Total coincidencias: 13
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 7
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 1
+   alcance: 0
+   contrato: 0
+   avance: 1
+   informe: 0
+   revisión: 4
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 3. PROPUESTA T&G  PROYECTO APLICATIVOS ORACLE EN GRUPO ORF_compressed (1)[2391].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-10980478-ORF_S.A.-V3_Contrato[1114].pdf (PDF)
+Total coincidencias: 580
+   requerimientos: 24
+   requerimiento: 5
+   especificaciones: 19
+   funcionalidades: 33
+   casos de uso: 3
+   caso de uso: 1
+   arquitectura: 11
+   diseño del sistema: 0
+   integración: 81
+   alcance: 209
+   contrato: 60
+   avance: 2
+   informe: 11
+   revisión: 25
+   desarrollo: 44
+   QA: 0
+   test: 1
+   manual: 17
+   características: 17
+   requisitos: 16
+   requisito: 1
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Re CERES - Revisión Ampliación Información Escenario Replanificación BigBang ORF[3813].pdf (PDF)
+Total coincidencias: 9
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 8
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: OFICIO RESPUESTA ORACLE[1457].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 03. Cámara Comercio TSNET 18abril23[3027].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 3
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Entrega No 1 Integraciones aclaracion entrega integraciones mcia en consignacion[1635].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 6
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Cierre Fase de Análisis y DiseñoAC[1098].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Propuesta T&G  Proyecto Aplicativos Oracle en Grupo ORF VF_compressed[1450].pdf (PDF)
+Total coincidencias: 197
+   requerimientos: 8
+   requerimiento: 10
+   especificaciones: 1
+   funcionalidades: 13
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 51
+   alcance: 51
+   contrato: 7
+   avance: 14
+   informe: 11
+   revisión: 7
+   desarrollo: 14
+   QA: 0
+   test: 0
+   manual: 2
+   características: 2
+   requisitos: 5
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: 03_Certificado de Existencia y Representación Legal[3270].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.3 16052023[1350].pdf (PDF)
+Total coincidencias: 187
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 65
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Costos[1840].pdf (PDF)
+Total coincidencias: 0
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CO-ODA1-11943151-ORF S.A.-v1 Signed[1311].pdf (PDF)
+Total coincidencias: 10
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 3
+   diseño del sistema: 0
+   integración: 0
+   alcance: 5
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 1
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Paz y Salvo Servicios ORF_Noviembre_2023[1124].pdf (PDF)
+Total coincidencias: 2
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 2
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: CAMARA COMERCIO_TSNET[3406].pdf (PDF)
+Total coincidencias: 8
+   requerimientos: 1
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 3
+   revisión: 1
+   desarrollo: 3
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.1 24042023[4221].pdf (PDF)
+Total coincidencias: 184
+   requerimientos: 21
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 63
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Pruebas verticales 12 octubre Embargos[2783].pdf (PDF)
+Total coincidencias: 1
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: RE Casos de uso para PB3 de venta en consignación[2616].pdf (PDF)
+Total coincidencias: 19
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 9
+   caso de uso: 4
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 3
+   alcance: 0
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 1
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite - PADDY_Solucion_Paddy_Alto_Nivel[2458].pdf (PDF)
+Total coincidencias: 2
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 1
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 0
+   alcance: 1
+   contrato: 0
+   avance: 0
+   informe: 0
+   revisión: 0
+   desarrollo: 0
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Acta - Reunión Petit Comite - 13.12.2022 (2) (2)[2455].docx (DOCX)
+Total coincidencias: 11
+   requerimientos: 0
+   requerimiento: 0
+   especificaciones: 0
+   funcionalidades: 0
+   casos de uso: 1
+   caso de uso: 0
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 2
+   alcance: 4
+   contrato: 1
+   avance: 0
+   informe: 0
+   revisión: 1
+   desarrollo: 2
+   QA: 0
+   test: 0
+   manual: 0
+   características: 0
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ROA - Propuesta Servicios de Implementacion Oracle Fusion Cloud V.2 28042023[1528].pdf (PDF)
+Total coincidencias: 186
+   requerimientos: 22
+   requerimiento: 13
+   especificaciones: 3
+   funcionalidades: 12
+   casos de uso: 0
+   caso de uso: 0
+   arquitectura: 9
+   diseño del sistema: 0
+   integración: 19
+   alcance: 64
+   contrato: 3
+   avance: 4
+   informe: 7
+   revisión: 7
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 1
+   características: 5
+   requisitos: 0
+   requisito: 0
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ORF_Modelo para registrar casos de uso V7_PB3 (Todos Los Procesos) Final A (2)[1533].xlsx (XLSX)
+Total coincidencias: 730
+   requerimientos: 0
+   requerimiento: 9
+   especificaciones: 2
+   funcionalidades: 1
+   casos de uso: 10
+   caso de uso: 76
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 248
+   alcance: 3
+   contrato: 56
+   avance: 1
+   informe: 61
+   revisión: 75
+   desarrollo: 27
+   QA: 0
+   test: 4
+   manual: 92
+   características: 49
+   requisitos: 8
+   requisito: 7
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ORF_Modelo para registrar casos de uso V7_PB3 (Todos Los Procesos)170223[2100].xlsx (XLSX)
+Total coincidencias: 1021
+   requerimientos: 0
+   requerimiento: 9
+   especificaciones: 2
+   funcionalidades: 1
+   casos de uso: 11
+   caso de uso: 364
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 250
+   alcance: 3
+   contrato: 56
+   avance: 1
+   informe: 61
+   revisión: 75
+   desarrollo: 27
+   QA: 0
+   test: 4
+   manual: 92
+   características: 49
+   requisitos: 8
+   requisito: 7
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ORF_Modelo para registrar casos de uso V7_PB3 (Todos Los Procesos)170223[1265].xlsx (XLSX)
+Total coincidencias: 1021
+   requerimientos: 0
+   requerimiento: 9
+   especificaciones: 2
+   funcionalidades: 1
+   casos de uso: 11
+   caso de uso: 364
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 250
+   alcance: 3
+   contrato: 56
+   avance: 1
+   informe: 61
+   revisión: 75
+   desarrollo: 27
+   QA: 0
+   test: 4
+   manual: 92
+   características: 49
+   requisitos: 8
+   requisito: 7
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ORF_Modelo para registrar casos de uso V7_PB3 (Todos Los Procesos)170223[2096].xlsx (XLSX)
+Total coincidencias: 1021
+   requerimientos: 0
+   requerimiento: 9
+   especificaciones: 2
+   funcionalidades: 1
+   casos de uso: 11
+   caso de uso: 364
+   arquitectura: 1
+   diseño del sistema: 0
+   integración: 250
+   alcance: 3
+   contrato: 56
+   avance: 1
+   informe: 61
+   revisión: 75
+   desarrollo: 27
+   QA: 0
+   test: 4
+   manual: 92
+   características: 49
+   requisitos: 8
+   requisito: 7
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Anexo 6 Condiciones Técnicas esenciales para la implementación del Proyecto de transformación digital de las empresas[1147].docx (DOCX)
+Total coincidencias: 166
+   requerimientos: 38
+   requerimiento: 3
+   especificaciones: 3
+   funcionalidades: 7
+   casos de uso: 1
+   caso de uso: 4
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 9
+   alcance: 6
+   contrato: 30
+   avance: 3
+   informe: 0
+   revisión: 4
+   desarrollo: 49
+   QA: 0
+   test: 0
+   manual: 0
+   características: 2
+   requisitos: 2
+   requisito: 3
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: Anexo 6 Condiciones Técnicas esenciales para la implementación del Proyecto de transformación digital de las empresas[1307].docx (DOCX)
+Total coincidencias: 166
+   requerimientos: 38
+   requerimiento: 3
+   especificaciones: 3
+   funcionalidades: 7
+   casos de uso: 1
+   caso de uso: 4
+   arquitectura: 2
+   diseño del sistema: 0
+   integración: 9
+   alcance: 6
+   contrato: 30
+   avance: 3
+   informe: 0
+   revisión: 4
+   desarrollo: 49
+   QA: 0
+   test: 0
+   manual: 0
+   características: 2
+   requisitos: 2
+   requisito: 3
+
+Ruta: /Users/bitsamericas/Downloads/ACTA
+Archivo: ORF_Modelo para registrar casos de uso V6_consolidadoPB2[1532].xlsx (XLSX)
+Total coincidencias: 425
+   requerimientos: 4
+   requerimiento: 17
+   especificaciones: 16
+   funcionalidades: 0
+   casos de uso: 22
+   caso de uso: 72
+   arquitectura: 0
+   diseño del sistema: 0
+   integración: 5
+   alcance: 3
+   contrato: 47
+   avance: 0
+   informe: 43
+   revisión: 103
+   desarrollo: 17
+   QA: 0
+   test: 0
+   manual: 42
+   características: 15
+   requisitos: 13
+   requisito: 6
+
