@@ -12,19 +12,8 @@ import textract
 import docx
 import fitz  # PyMuPDF
 from tqdm import tqdm
-
-logging.getLogger("PyPDF2").setLevel(logging.ERROR)
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler("analizador.log"),
-        logging.StreamHandler()
-    ]
-)
-
-logger = logging.getLogger(__name__)
+from pptx import Presentation
+import shutil
 
 class ExtractionError(Exception):
     def __init__(self, mensaje, archivo=None):
@@ -66,6 +55,24 @@ def extraer_texto_xlsx(path):
         return text
     except Exception as e:
         raise ExtractionError(f"Error leyendo XLSX: {e}", archivo=path)
+    
+def extraer_texto_odt(path):
+    try:
+        return textract.process(path).decode('utf-8')
+    except Exception as e:
+        raise ExtractionError(f"Error leyendo ODT: {e}", archivo=path)
+    
+def extraer_texto_pptx(path):
+    try:
+        prs = Presentation(path)
+        texto = ""
+        for slide in prs.slides:
+            for shape in slide.shapes:
+                if hasattr(shape, "text"):
+                    texto += shape.text + " "
+        return texto
+    except Exception as e:
+        raise ExtractionError(f"Error leyendo PPTX: {e}", archivo=path)
 
 def procesar_archivo(path, incluir_resumen):
     nombre = os.path.basename(path)
@@ -93,6 +100,10 @@ def procesar_archivo(path, incluir_resumen):
         elif extension in ["txt", "csv"]:
             with open(path, 'r', encoding="utf-8", errors="ignore") as f:
                 texto = f.read()
+        elif extension == "odt":
+            texto = extraer_texto_odt(path)
+        elif extension == "pptx":
+            texto = extraer_texto_pptx(path)
         else:
             return None
     except ExtractionError as e:
@@ -134,27 +145,29 @@ def procesar_archivo(path, incluir_resumen):
 
     return resultado
 
-def cargar_archivos_procesados():
+def cargar_archivos_procesados(rutaOutput):
     procesados = set()
-    if os.path.exists("procesados.txt"):
-        with open("procesados.txt", "r", encoding="utf-8") as f:
+    procesados_path = os.path.join(rutaOutput, "procesados.txt")
+    if os.path.exists(procesados_path):
+        with open(procesados_path, "r", encoding="utf-8") as f:
             procesados = set(line.strip() for line in f)
     return procesados
 
-def guardar_archivos_procesados(paths):
-    with open("procesados.txt", "a", encoding="utf-8") as f:
+def guardar_archivos_procesados(paths, rutaOutput):
+    procesados_path = os.path.join(rutaOutput, "procesados.txt")
+    with open(procesados_path, "a", encoding="utf-8") as f:
         for path in paths:
             f.write(f"{path}\n")
 
-def cargar_resultados_previos():
+def cargar_resultados_previos(rutaOutput):
     resultados = []
-    if not os.path.exists("informe_documentos.xlsx"):
+    excel_path = os.path.join(rutaOutput, "informe_documentos.xlsx")
+    if not os.path.exists(excel_path):
         print("No se encontró el archivo informe_documentos.xlsx. Se generará uno nuevo.")
         return resultados
     
     print("Cargando resultados previos de informe_documentos.xlsx...")
-
-    wb = openpyxl.load_workbook("informe_documentos.xlsx")
+    wb = openpyxl.load_workbook(excel_path)
     ws = wb.active
 
     for row in ws.iter_rows(min_row=2, values_only=True):
@@ -178,12 +191,12 @@ def cargar_resultados_previos():
 
     return resultados
 
-def analizar_documentos(ruta, incluir_resumen, forzar_reprocesamiento=False):
+def analizar_documentos(ruta, incluir_resumen, forzar_reprocesamiento=False, rutaOutput=None):
     resultados_nuevos = []
     archivos = []
     procesados = set()
     if not forzar_reprocesamiento:
-        procesados = cargar_archivos_procesados()
+        procesados = cargar_archivos_procesados(rutaOutput)
 
     for root, dirs, files in os.walk(ruta):
         for file in files:
@@ -207,12 +220,13 @@ def analizar_documentos(ruta, incluir_resumen, forzar_reprocesamiento=False):
             except Exception as e:
                 logger.error(f"Error procesando archivo {path}: {e}")
 
-    guardar_archivos_procesados(nuevos_procesados)
+    guardar_archivos_procesados(nuevos_procesados, rutaOutput)
 
     return resultados_nuevos
 
-def guardar_txt(resultados, incluir_resumen):
-    with open("informe_documentos.txt", "w", encoding="utf-8") as f:
+def guardar_txt(resultados, incluir_resumen, rutaOutput):
+    txt_path = os.path.join(rutaOutput, "informe_documentos.txt")
+    with open(txt_path, "w", encoding="utf-8") as f:
         for r in resultados:
             ruta_completa = os.path.abspath(r["ruta"])
             ruta_directorio = os.path.dirname(ruta_completa)
@@ -230,7 +244,7 @@ def guardar_txt(resultados, incluir_resumen):
                         f.write(f"      * {frase.strip()}\n")
             f.write("\n")
 
-def guardar_excel(resultados, incluir_resumen):
+def guardar_excel(resultados, incluir_resumen, rutaOutput):
     wb = openpyxl.Workbook()
     ws = wb.active
 
@@ -255,30 +269,53 @@ def guardar_excel(resultados, incluir_resumen):
 
         ws.append(fila)
 
-    wb.save("informe_documentos.xlsx")
+    excel_path = os.path.join(rutaOutput, "informe_documentos.xlsx")
+    wb.save(excel_path)
 
-PALABRAS_CLAVE = [
-    "requerimientos", "requerimiento", "especificaciones", "funcionalidades", "casos de uso", "caso de uso",
-    "arquitectura", "diseño del sistema", "integración", "alcance", "contrato",
-    "avance", "informe", "revisión", "desarrollo", "QA", "test", "manual", "características",
-    "requisitos", "requisito", "familiarizacion"
-]
-
-def cleanup(reprocesar):
+def cleanup(reprocesar, rutaOutput):
     if reprocesar:
-        archivos_a_borrar = [
-            "analizador.log",
-            "informe_documentos.xlsx",
-            "informe_documentos.txt",
-            "procesados.txt"
-        ]
-        for archivo in archivos_a_borrar:
-            if os.path.exists(archivo):
-                try:
-                    os.remove(archivo)
-                    logger.info(f"🧹 Archivo eliminado: {archivo}")
-                except Exception as e:
-                    logger.warning(f"❌ No se pudo eliminar {archivo}: {e}")
+        logger.info("🗑️ Limpiando archivos generados previamente...")
+        if os.path.exists(rutaOutput):
+            shutil.rmtree(rutaOutput)
+            print(f"Directorio '{rutaOutput}' eliminado correctamente.")
+        else:
+            print(f"El directorio '{rutaOutput}' no existe.")
+        
+
+def cargar_palabras_clave(ruta_archivo):
+    try:
+        with open(ruta_archivo, "r", encoding="utf-8") as f:
+            palabras = [linea.strip().lower() for linea in f if linea.strip()]
+        return palabras
+    except FileNotFoundError:
+        logging.error(f"El archivo {ruta_archivo} no fue encontrado.")
+        return []
+
+# Rutas
+RUTA_PALABRAS_CLAVE = os.path.join("config", "palabras_clave.txt")
+OUT_DIR = "out_docs"
+LOG = "log"
+
+# Variables globales
+PALABRAS_CLAVE = cargar_palabras_clave(RUTA_PALABRAS_CLAVE)
+
+# Crear el directorio de salida
+if not os.path.exists(OUT_DIR):
+    os.makedirs(OUT_DIR)
+
+# Configuración del logger
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("analizador.log"),
+        logging.StreamHandler()
+    ]
+)
+
+logging.getLogger("PyPDF2").setLevel(logging.ERROR)
+
+logger = logging.getLogger(__name__)
 
 def main():
     parser = argparse.ArgumentParser(description="Analiza documentos y busca palabras clave.")
@@ -286,21 +323,28 @@ def main():
     parser.add_argument("--resumen", action="store_true", help="Incluir resumen contextual")
     parser.add_argument("--reprocesar", action="store_true", help="Limpiar archivos generados previamente")
     args = parser.parse_args()
-
+    
+    folder = os.path.basename(os.path.normpath(args.ruta)) # Nombre de la carpeta del análisis
+    rutaOutput = os.path.join(OUT_DIR, folder) # Crear carpeta de salida específica para cada análisis
+    
     if args.reprocesar:
-        cleanup(args.reprocesar)
+        cleanup(args.reprocesar, rutaOutput)        
+
+    # Crear la carpeta de salida si no existe
+    if not os.path.exists(rutaOutput):
+        os.makedirs(rutaOutput)
 
     logger.info(f"⏳ Realizando análisis en: {args.ruta}")
 
-    resultados_previos = cargar_resultados_previos()
-    resultados_nuevos = analizar_documentos(args.ruta, args.resumen)
+    resultados_previos = cargar_resultados_previos(rutaOutput)
+    resultados_nuevos = analizar_documentos(args.ruta, args.resumen, args.reprocesar, rutaOutput)
     resultados_totales = resultados_previos + resultados_nuevos
 
-    guardar_txt(resultados_totales, args.resumen)
-    guardar_excel(resultados_totales, args.resumen)
+    guardar_txt(resultados_totales, args.resumen, rutaOutput)
+    guardar_excel(resultados_totales, args.resumen, rutaOutput)
 
-    logger.info("✅ Análisis completado.")
-    logger.info("🚀 Se actualizaron: informe_documentos.txt, informe_documentos.xlsx")
+    logger.info("✅ Análisis completo.")
+    logger.info("🚀 Se generó: informe_documentos.txt, informe_documentos.xlsx")
 
 if __name__ == "__main__":
     main()

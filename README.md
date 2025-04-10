@@ -29,7 +29,7 @@ python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/INCUMPLIMI
 python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/ACTA"
 
 O si se quiere reprocesar todo:
-python-search-docs bitsamericas$ python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/INCUMPLIMIENTO" --reprocesar
+python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/INCUMPLIMIENTO" --reprocesar
 
 # Downgrade de pip (recomendado para instalar textract)
 

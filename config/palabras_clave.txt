@@ -1,0 +1,23 @@
+
+requerimientos
+requerimiento
+especificaciones
+funcionalidades
+casos de uso
+caso de uso
+arquitectura
+diseño del sistema
+integración
+alcance
+contrato
+avance
+informe
+revisión
+desarrollo
+QA
+test
+manual
+características
+requisitos
+requisito
+familiarizacion
