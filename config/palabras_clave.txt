@@ -1,23 +1,104 @@
-
-requerimientos
-requerimiento
-especificaciones
-funcionalidades
-casos de uso
-caso de uso
-arquitectura
-diseño del sistema
-integración
+aceptado
+aceptados
+Acta
 alcance
-contrato
+aprobado
+aprobados
+arquitectura
+Arquitectura General Integraciones y Extensiones
 avance
-informe
-revisión
-desarrollo
-QA
-test
-manual
 características
-requisitos
-requisito
+caso de uso
+casos de uso
+ceres
+configuracion
+Configuración a productivo
+Configuración en Productivo Gestion de Mercadeo - CX
+Configuración en Productivo HCM FASE 1
+contrato
+control
+control de asistencia
+correo
+correo electronico
+Cutoff
+cx
+CX
+CX (Servicios y Ventas)
+desarrollo
+diseño
+diseño del sistema
+documento
+documento de diseño
+Documento de Diseño Funcional
+Documento de Diseño Técnico de Integraciones y Extensiones
+ejecución
+email
+EPM
+ERP
+especificacion
+especificaciones
+evidencia
+Evidencia de ejecución
+extensiones
 familiarizacion
+Fase
+Fase 1
+Fase 2
+Fase I
+Fase II
+Fase Refine
+funcional
+funcionalidades
+general
+HCM
+HCM (Fase 1)
+HCM (Fase 2)
+incumplimiento
+incumplimientos
+informe
+integración
+integraciones
+Integraciones y Extensiones
+legal
+manual
+marketing
+matriz
+mercadeo
+modulo
+modulos
+OTM
+Plan de Soporte
+productivo
+proyecto
+proyecto ceres
+prueba
+pruebas
+QA
+rechazo
+rechazos
+referencia
+referencia de cambios
+refine
+reunion
+rfp
+requerimiento
+requerimientos
+requisito
+requisitos
+revisión
+seguimiento
+servicio
+Servicios
+sesion
+soporte
+sub-modulo
+sub-modulos
+submodulo
+submodulos
+Talleres
+tecnico
+test
+train the trainers
+Validación de configuración
+venta
+ventas

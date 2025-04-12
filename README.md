@@ -40,3 +40,5 @@ pip install textract
 # Comando para contar cantidad de archivos de una carpeta estando dentro de ella
 
 find . -maxdepth 1 -type f | wc -l
+
+python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/30-11-2023acruzfinal
