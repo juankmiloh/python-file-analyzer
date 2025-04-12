@@ -4,5 +4,6 @@ openpyxl
 mammoth
 PyMuPDF
 python-pptx
+patool
 # pip install "pip<24.1" // Ejecutar esto para poder instalar textract
 # pip install textract // Ejecutar esto para poder instalar textract

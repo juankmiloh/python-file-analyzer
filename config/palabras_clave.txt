@@ -48,6 +48,7 @@ Fase I
 Fase II
 Fase Refine
 funcional
+funcionales
 funcionalidades
 general
 HCM

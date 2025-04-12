@@ -14,6 +14,7 @@ import shutil
 import fitz  # PyMuPDF
 from tqdm import tqdm
 from pptx import Presentation
+import patoolib
 
 class ExtractionError(Exception):
     def __init__(self, mensaje, archivo=None):
@@ -107,7 +108,7 @@ def procesar_archivo(path, incluir_resumen, logger):
         else:
             return None
     except ExtractionError as e:
-        logger.error(f"{e} (⚠️  Archivo no permitido: {path}: {e}")
+        logger.error(f"⚠️  Archivo no permitido: {path}: {e}")
         return None
 
     texto_normalizado = normalizar(texto)
@@ -344,8 +345,32 @@ def main():
     logger = setup_logger(rutaOutput)
     
     logger.info(f"🔍 Iniciando análisis de documentos en {args.ruta}...")
+
+    # 4. Verificar y descomprimir archivos .zip y .rar
+    def descomprimir_recursivo(carpeta):
+        for root, dirs, files in os.walk(carpeta):
+            for file in files:
+                file_path = os.path.join(root, file)
+                if file.lower().endswith(".zip"):
+                    try:
+                        destino = os.path.join(root, os.path.splitext(file)[0])
+                        shutil.unpack_archive(file_path, destino)
+                        logger.info(f"📦 Archivo .zip descomprimido: {file_path}")
+                        descomprimir_recursivo(destino)  # Llamada recursiva
+                    except Exception as e:
+                        logger.error(f"❌ Error descomprimiendo archivo .zip {file_path}: {e}")
+                elif file.lower().endswith(".rar"):
+                    try:
+                        destino = os.path.join(root, os.path.splitext(file)[0])
+                        patoolib.extract_archive(file_path, outdir=destino)
+                        logger.info(f"📦 Archivo .rar descomprimido: {file_path}")
+                        descomprimir_recursivo(destino)  # Llamada recursiva
+                    except Exception as e:
+                        logger.error(f"❌ Error descomprimiendo archivo .rar {file_path}: {e}")
+
+    descomprimir_recursivo(args.ruta)
     
-    # 4. Procesar los documentos
+    # 5. Procesar los documentos
     resultados_previos = cargar_resultados_previos(rutaOutput)
     resultados_nuevos = analizar_documentos(args.ruta, args.resumen, args.reprocesar, rutaOutput, logger)
     resultados_totales = resultados_previos + resultados_nuevos
@@ -354,7 +379,8 @@ def main():
     guardar_excel(resultados_totales, args.resumen, rutaOutput)
 
     logger.info("✅ Análisis completo")
-    logger.info("🚀 Archivos generados exitosamente:")
+    logger.info(f"🚀 Archivos de salida generados en {rutaOutput}")
+    logger.info("   - analizador.log")
     logger.info("   - informe_documentos.txt")
     logger.info("   - informe_documentos.xlsx")
     logger.info("   - procesados.txt")

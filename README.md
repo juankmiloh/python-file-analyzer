@@ -6,6 +6,14 @@
 
 # python analizador_documentos.py --ruta /ruta/a/tu/carpeta --resumen
 
+💻 Instalar unar para poder descomprimir archivos .rar
+
+Para instalar `unar`, ejecuta el siguiente comando en la terminal:
+
+```bash
+brew install unar
+```
+
 🚀 Cómo ejecutarlo
 
 1. Crear un entorno virtual de Python:
@@ -42,3 +50,5 @@ pip install textract
 find . -maxdepth 1 -type f | wc -l
 
 python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/30-11-2023acruzfinal
+python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/DocumentosEnviadosOracle
+python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/ProyectoTDO
