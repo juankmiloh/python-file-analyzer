@@ -14,6 +14,17 @@ Para instalar `unar`, ejecuta el siguiente comando en la terminal:
 brew install unar
 ```
 
+Para instalar `tesseract` ejecuta los siguientes comandos en la terminal:
+
+```bash
+brew install tesseract // Sirve para usar el escaneo OCR
+brew install tesseract-lang // Instalar los datos del idioma español
+export TESSDATA_PREFIX="/opt/homebrew/share/" // Configurar la variable de entorno TESSDATA_PREFIX
+source ~/.zshrc // Recarga tu archivo de configuración del shell
+# En el entorno virtual
+pip install pytesseract pillow // Ejecutar esto para poder instalar pytesseract y leer OCR
+```
+
 🚀 Cómo ejecutarlo
 
 1. Crear un entorno virtual de Python:
@@ -52,3 +63,5 @@ find . -maxdepth 1 -type f | wc -l
 python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/30-11-2023acruzfinal
 python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/DocumentosEnviadosOracle
 python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/ProyectoTDO
+python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/Correos Humberto Celis
+python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/Correos\ Humberto\ Celis/

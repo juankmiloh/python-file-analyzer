@@ -15,6 +15,9 @@ import fitz  # PyMuPDF
 from tqdm import tqdm
 from pptx import Presentation
 import patoolib
+from PIL import Image
+import pytesseract
+import extract_msg
 
 class ExtractionError(Exception):
     def __init__(self, mensaje, archivo=None):
@@ -74,6 +77,33 @@ def extraer_texto_pptx(path):
         return texto
     except Exception as e:
         raise ExtractionError(f"❌ Error leyendo PPTX: {e}", archivo=path)
+    
+def extraer_texto_ocr_imagen(path):
+    try:
+        imagen = Image.open(path)
+        return pytesseract.image_to_string(imagen, lang="spa")
+    except Exception as e:
+        raise ExtractionError(f"❌ Error leyendo imagen con OCR: {e}", archivo=path)
+    
+def extraer_texto_pdf_con_ocr(path):
+    try:
+        texto = ""
+        with fitz.open(path) as doc:
+            for page in doc:
+                pix = page.get_pixmap(dpi=300)
+                img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+                texto += pytesseract.image_to_string(img, lang="spa") + "\n"
+        return texto
+    except Exception as e:
+        raise ExtractionError(f"❌ Error en OCR de PDF escaneado: {e}", archivo=path)
+    
+def extraer_texto_de_msg(path):
+    try:
+        msg = extract_msg.Message(path)
+        msg_message = msg.date
+        return msg_message
+    except Exception as e:
+        raise ExtractionError(f"❌ Error extrayendo texto de archivo MSG: {e}", archivo=path)
 
 def procesar_archivo(path, incluir_resumen, logger):
     nombre = os.path.basename(path)
@@ -91,7 +121,16 @@ def procesar_archivo(path, incluir_resumen, logger):
 
     try:
         if extension == "pdf":
-            texto = extraer_texto_pdf(path)
+            try:
+                texto = extraer_texto_pdf(path)
+                if not texto.strip():
+                    logger.info(f"📄 PDF vacío o escaneado. Intentando OCR: {path}")
+                    texto = extraer_texto_pdf_con_ocr(path)
+            except ExtractionError as e:
+                logger.warning(f"⚠️ Error leyendo PDF. Intentando OCR: {path}")
+                texto = extraer_texto_pdf_con_ocr(path)
+        elif extension in ["png", "jpg", "jpeg", "tiff"]:
+            texto = extraer_texto_ocr_imagen(path)
         elif extension == "docx":
             texto = extraer_texto_docx(path)
         elif extension == "doc":
@@ -105,6 +144,8 @@ def procesar_archivo(path, incluir_resumen, logger):
             texto = extraer_texto_odt(path)
         elif extension == "pptx":
             texto = extraer_texto_pptx(path)
+        elif extension == "msg":
+            texto = extraer_texto_de_msg(path)
         else:
             return None
     except ExtractionError as e:
@@ -289,7 +330,6 @@ def cleanup(reprocesar, rutaOutput):
         else:
             print(f"ℹ️  El directorio '{rutaOutput}' no existe.")
         
-
 def cargar_palabras_clave(ruta_archivo):
     try:
         with open(ruta_archivo, "r", encoding="utf-8") as f:
@@ -312,7 +352,6 @@ def setup_logger(rutaOutput):
             logging.StreamHandler()
         ]
     )
-
     return logging.getLogger(__name__)
 
 # Rutas
@@ -344,7 +383,7 @@ def main():
     # 3. Configurar el logger
     logger = setup_logger(rutaOutput)
     
-    logger.info(f"🔍 Iniciando análisis de documentos en {args.ruta}...")
+    logger.info(f"🔍 Iniciando análisis de documentos en {args.ruta}")
 
     # 4. Verificar y descomprimir archivos .zip y .rar
     def descomprimir_recursivo(carpeta):
