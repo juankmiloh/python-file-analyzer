@@ -4,7 +4,9 @@
 
 # Para ejecutar el script, usa el siguiente comando en la terminal:
 
-# python analizador_documentos.py --ruta /ruta/a/tu/carpeta --resumen
+# python main.py --ruta /ruta/a/tu/carpeta --resumen
+
+# python main.py --ruta /ruta/a/tu/carpeta --reprocesar (Elimina todos los archivos del procesamiento; sino se envia el flag no se procesan los archivos ya procesados)
 
 💻 Instalar unar para poder descomprimir archivos .rar
 
@@ -32,23 +34,23 @@ pip install pytesseract pillow // Ejecutar esto para poder instalar pytesseract 
    source venv/bin/activate
    python -m pip install --upgrade pip
    pip install -r requirements.txt
-2. python analizador_documentos.py --ruta "/ruta/a/tu/carpeta" --resumen
+2. python main.py --ruta "/ruta/a/tu/carpeta" --resumen
 
 O si no quieres resumen:
-python analizador_documentos.py --ruta "/ruta/a/tu/carpeta"
+python main.py --ruta "/ruta/a/tu/carpeta"
 
 🧪 Ejemplo de uso
 
-python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/doc_pdf" --resumen
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/doc_pdf" --resumen
 
 O sin resumen:
-python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/doc_pdf"
-python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/orf"
-python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/INCUMPLIMIENTO"
-python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/ACTA"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/doc_pdf"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/orf"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/INCUMPLIMIENTO"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/ACTA"
 
 O si se quiere reprocesar todo:
-python analizador_documentos.py --ruta "/Users/bitsamericas/Downloads/INCUMPLIMIENTO" --reprocesar
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/INCUMPLIMIENTO" --reprocesar
 
 # Downgrade de pip (recomendado para instalar textract)
 
@@ -60,8 +62,8 @@ pip install textract
 
 find . -maxdepth 1 -type f | wc -l
 
-python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/30-11-2023acruzfinal
-python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/DocumentosEnviadosOracle
-python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/ProyectoTDO
-python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/Correos Humberto Celis
-python analizador_documentos.py --ruta /Users/bitsamericas/Downloads/ORF_DOC_OFICIAL/Correos\ Humberto\ Celis/
+python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/30-11-2023acruzfinal
+python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/DocumentosEnviadosOracle
+python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/ProyectoTDO
+python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/Correos Humberto Celis
+python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/Correos\ Humberto\ Celis/
