@@ -2,7 +2,7 @@ from utils.configuracion import args, rutaOutput, logger
 from utils.comprimidos import descomprimir_recursivo
 from procesamiento.analisis import analizar_documentos
 from procesamiento.persistencia import cargar_resultados_previos
-from procesamiento.salida import export_excel, export_txt
+from procesamiento.salida import export_excel, export_txt, export_resumen_json
 
 
 def main():
@@ -16,8 +16,11 @@ def main():
     resultados_nuevos = analizar_documentos(args.ruta, args.resumen, args.reprocesar)
     resultados_totales = resultados_previos + resultados_nuevos
 
-    export_txt(resultados_totales, args.resumen)
-    export_excel(resultados_totales, args.resumen)
+    # 3. Guardar los resultados
+    export_txt(resultados_totales)
+    export_excel(resultados_totales)
+    if args.resumen:
+        export_resumen_json(resultados_totales)
 
     logger.info("✅ Análisis completo")
     logger.info(f"🚀 Archivos de salida generados en {rutaOutput}")

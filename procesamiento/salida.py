@@ -1,9 +1,10 @@
 import os
 import openpyxl
+import json
 from utils.configuracion import PALABRAS_CLAVE, rutaOutput
 
 
-def export_txt(resultados, incluir_resumen):
+def export_txt(resultados):
     txt_path = os.path.join(rutaOutput, "informe_documentos.txt")
     with open(txt_path, "w", encoding="utf-8") as f:
         for r in resultados:
@@ -15,21 +16,13 @@ def export_txt(resultados, incluir_resumen):
             f.write(f"Total coincidencias: {r['coincidencias']}\n")
             for palabra, cantidad in r['detalle'].items():
                 f.write(f"   {palabra}: {cantidad}\n")
-            if incluir_resumen:
-                f.write("Resumen contextual:\n")
-                for palabra, frases in r.get("resumen", {}).items():
-                    f.write(f"  - {palabra}:\n")
-                    for frase in frases:
-                        f.write(f"      * {frase.strip()}\n")
-            f.write("\n")
 
-def export_excel(resultados, incluir_resumen):
+def export_excel(resultados):
     wb = openpyxl.Workbook()
     ws = wb.active
 
     encabezados = ["Ruta", "Nombre", "Tipo", "Total coincidencias"] + PALABRAS_CLAVE
-    if incluir_resumen:
-        encabezados.append("Resumen")
+
     ws.append(encabezados)
 
     for r in resultados:
@@ -40,13 +33,16 @@ def export_excel(resultados, incluir_resumen):
         fila = [ruta_directorio, nombre_archivo, r["tipo"], r["coincidencias"]]
         fila += [r["detalle"].get(p, 0) for p in PALABRAS_CLAVE]
 
-        if incluir_resumen:
-            resumen_concat = "\n".join(
-                f"{palabra}: " + " | ".join(frases) for palabra, frases in r.get("resumen", {}).items()
-            )
-            fila.append(resumen_concat)
-
         ws.append(fila)
 
     excel_path = os.path.join(rutaOutput, "informe_documentos.xlsx")
     wb.save(excel_path)
+
+def export_resumen_json(resultados):
+    resumen = [
+        {"archivo": os.path.join(os.path.dirname(os.path.abspath(r["ruta"])), r["nombre"]), "resumen": r["resumen"]}
+        for r in resultados if "resumen" in r
+    ]
+    json_path = os.path.join(rutaOutput, "resumen.json")
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(resumen, f, ensure_ascii=False, indent=2)
