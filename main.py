@@ -6,7 +6,7 @@ from procesamiento.salida import export_excel, export_txt, export_resumen_json
 
 
 def main():
-    logger.info(f"🔍 Iniciando análisis de documentos en {args.ruta}")
+    logger.info(f"🚀 Iniciando análisis de documentos en {args.ruta}")
 
     # 1. Verificar y descomprimir archivos .zip y .rar
     descomprimir_recursivo(args.ruta)
@@ -23,7 +23,7 @@ def main():
         export_resumen_json(resultados_totales)
 
     logger.info("✅ Análisis completo")
-    logger.info(f"🚀 Archivos de salida generados en {rutaOutput}")
+    logger.info(f"📂 Archivos de salida generados en {rutaOutput}")
     logger.info("   - analizador.log")
     logger.info("   - informe_documentos.txt")
     logger.info("   - informe_documentos.xlsx")

@@ -1,69 +1,100 @@
-# Este script analiza documentos en una carpeta especificada, busca palabras clave y genera un informe.
+# 🧠 Analizador de Documentos con Palabras Clave y Resúmenes
 
-# Se pueden incluir resúmenes contextuales de las palabras clave encontradas.
+Este script analiza documentos ubicados en una carpeta especificada, busca palabras clave relevantes y genera un informe detallado.  
+También puede incluir **resúmenes contextuales** de los fragmentos donde se encuentran las palabras clave.
 
-# Para ejecutar el script, usa el siguiente comando en la terminal:
+---
 
-# python main.py --ruta /ruta/a/tu/carpeta --resumen
+## ⚙️ Preparar el entorno de ejecución
 
-# python main.py --ruta /ruta/a/tu/carpeta --reprocesar (Elimina todos los archivos del procesamiento; sino se envia el flag no se procesan los archivos ya procesados)
+**Crea y activa un entorno virtual de Python:**
 
-💻 Instalar unar para poder descomprimir archivos .rar
+```bash
+python3 -m venv venv
+source venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
 
-Para instalar `unar`, ejecuta el siguiente comando en la terminal:
+---
+
+## 📆 Requisitos
+
+### 🔧 Instalación de dependencias (OCR y extracción de texto)
+
+#### Downgrade de `pip` (recomendado para evitar errores con `textract`)
+
+```bash
+pip install "pip<24.1"
+```
+
+#### Instalar `textract` y dependencias auxiliares
+
+```bash
+brew install antiword
+pip install textract
+```
+
+#### Instalar OCR con `Tesseract` (si necesitas escaneo de texto en imágenes o PDF escaneados)
+
+```bash
+brew install tesseract                          # OCR engine
+brew install tesseract-lang                     # Idioma español
+export TESSDATA_PREFIX="/opt/homebrew/share/"   # Configuración del idioma
+source ~/.zshrc                                 # Recargar la configuración del shell
+pip install pytesseract pillow                  # Librerías para usar OCR en Python
+```
+
+#### Instalar `unar` para descomprimir archivos `.rar`
 
 ```bash
 brew install unar
 ```
 
-Para instalar `tesseract` ejecuta los siguientes comandos en la terminal:
+---
+
+## 🚀 Ejecutar análisis
+
+**Ejecuta el script con alguna de las siguientes opciones:**
 
 ```bash
-brew install tesseract // Sirve para usar el escaneo OCR
-brew install tesseract-lang // Instalar los datos del idioma español
-export TESSDATA_PREFIX="/opt/homebrew/share/" // Configurar la variable de entorno TESSDATA_PREFIX
-source ~/.zshrc // Recarga tu archivo de configuración del shell
-# En el entorno virtual
-pip install pytesseract pillow // Ejecutar esto para poder instalar pytesseract y leer OCR
-```
-
-🚀 Cómo ejecutarlo
-
-1. Crear un entorno virtual de Python:
-   python3 -m venv venv
-   source venv/bin/activate
-   python -m pip install --upgrade pip
-   pip install -r requirements.txt
-2. python main.py --ruta "/ruta/a/tu/carpeta" --resumen
-
-O si no quieres resumen:
+# Sin resumen
 python main.py --ruta "/ruta/a/tu/carpeta"
 
-🧪 Ejemplo de uso
+# Con resumen contextual
+python main.py --ruta "/ruta/a/tu/carpeta" --resumen
 
+# Reprocesar todos los archivos, incluso los ya procesados
+python main.py --ruta "/ruta/a/tu/carpeta" --reprocesar
+
+# Reprocesar todos los archivos, incluso los ya procesados agregando resumen contextual
+python main.py --ruta "/ruta/a/tu/carpeta" --reprocesar --resumen
+```
+
+---
+
+## 🧪 Ejemplos de Uso
+
+```bash
 python main.py --ruta "/Users/bitsamericas/Documents/ORF/doc_pdf" --resumen
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/doc_pdf" --reprocesar --resumen
+```
 
-O sin resumen:
-python main.py --ruta "/Users/bitsamericas/Documents/ORF/doc_pdf"
-python main.py --ruta "/Users/bitsamericas/Documents/ORF/orf"
-python main.py --ruta "/Users/bitsamericas/Documents/ORF/INCUMPLIMIENTO"
-python main.py --ruta "/Users/bitsamericas/Documents/ORF/ACTA"
+También puedes analizar subcarpetas específicas:
 
-O si se quiere reprocesar todo:
-python main.py --ruta "/Users/bitsamericas/Documents/ORF/INCUMPLIMIENTO" --reprocesar
+```bash
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/30-11-2023acruzfinal"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/DocumentosEnviadosOracle"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/ProyectoTDO"
+python main.py --ruta "/Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/Correos Humberto Celis"
+```
 
-# Downgrade de pip (recomendado para instalar textract)
+---
 
-brew install antiword
-pip install "pip<24.1"
-pip install textract
+## 📊 Utilidades
 
-# Comando para contar cantidad de archivos de una carpeta estando dentro de ella
+### Contar archivos en una carpeta desde la terminal
 
+```bash
 find . -maxdepth 1 -type f | wc -l
-
-python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/30-11-2023acruzfinal
-python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/DocumentosEnviadosOracle
-python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/ProyectoTDO
-python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/Correos Humberto Celis
-python main.py --ruta /Users/bitsamericas/Documents/ORF/ORF_DOC_OFICIAL/Correos\ Humberto\ Celis/
+```
