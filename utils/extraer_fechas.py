@@ -80,7 +80,7 @@ def extraer_fechas(texto, path):
     """
 
     fechas_encontradas = re.findall(fecha_regex, texto, re.VERBOSE)
-    logger.info(f"🔍 [Fechas encontradas][Archivo]: {path} | {fechas_encontradas}")
+    # logger.info(f"🔍 [Fechas encontradas][Archivo]: {path} | {fechas_encontradas}")
 
     # Normalizamos las fechas encontradas
     fechas_normalizadas = [normalizar_fecha(fecha) for fecha in fechas_encontradas]

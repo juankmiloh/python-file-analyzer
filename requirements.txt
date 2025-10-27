@@ -6,3 +6,8 @@ python-pptx
 patool
 pytesseract
 pillow
+pymupdf
+pandas
+pdf2image
+opencv-python
+regex

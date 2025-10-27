@@ -32,11 +32,16 @@ def analizar_documentos(ruta, incluir_resumen, forzar_reprocesamiento=False):
         for file in files:
             path = os.path.abspath(os.path.join(root, file))
             if path not in procesados:
-                if not any(ext in os.path.basename(path).lower() for ext in [".ds_store", ".zip", ".rar", ".mpp"]): # Archivos excluidos
+                if not any(ext in os.path.basename(path).lower() for ext in [".ds_store", ".zip", ".rar"]): # Archivos excluidos
                     archivos.append(path)
 
     logger.info(f"⚙️  {len(archivos)} archivos nuevos por procesar.")
     nuevos_procesados = []
+
+    # 👇 Agregamos el contador de procesados
+    contador_procesados = 0
+    contador_error_procesado = 0
+    contador_mpp = 0
 
     with concurrent.futures.ThreadPoolExecutor() as executor:
         futuras = {executor.submit(procesar_archivo, path, incluir_resumen, logger): path for path in archivos}
@@ -47,12 +52,21 @@ def analizar_documentos(ruta, incluir_resumen, forzar_reprocesamiento=False):
                 if resultado:
                     resultados_nuevos.append(resultado)
                     nuevos_procesados.append(path)
+                    contador_procesados += 1  # 👈 Incrementar el contador aquí
                 else:
                     logger.error(f"❌ Error procesando archivo: {path}")
+                    if any(ext in os.path.basename(path).lower() for ext in [".mpp"]): # Archivos project
+                        contador_mpp += 1
+                    else:
+                        contador_error_procesado += 1  # 👈 Incrementar el contador aquí
             except Exception as e:
                 logger.error(f"❌ Error procesando archivo {path}: {e}")
 
     guardar_archivos_procesados(nuevos_procesados, rutaOutput)
+
+    logger.info(f"✅ Total archivos procesados exitosamente: {contador_procesados} de {len(archivos)} archivos.")
+    logger.info(f"❌ Total archivos con error al procesar: {contador_error_procesado} de {len(archivos)} archivos.")
+    logger.info(f"📁 Archivos de Microsoft Project ignorados: {contador_mpp} de {len(archivos)} archivos.")
 
     return resultados_nuevos
 

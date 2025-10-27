@@ -1,39 +1,8 @@
-14 de febrero de 2022
-May 7, 2021
-23 de enero de 2023
-18 Mar 2025
-15/12/2022
-December 15, 2022
-febrero
-February
-14 feb 2022
-14/02/2022
-February 14, 2022
-14 de febrero de 2022
-agosto
-August
-03 aug 2022
-03/08/2022
-August 03, 2022
-03 de agosto de 2022
-3 aug 2022
-3/08/2022
-August 3, 2022
-3 de agosto de 2022
-diciembre
-December
-22 dec 2021
-22/12/2021
-December 22, 2021
-22 de diciembre de 2021
-27 dec 2022
-27/12/2022
-December 27, 2022
-27 de diciembre de 2022
-bigbang
-aceptado
-aceptados
+### Fechas
+
+### Proyecto / Documentación
 Acta
+actividades
 alcance
 aprobado
 aprobados
@@ -41,69 +10,57 @@ arquitectura
 Arquitectura General Integraciones y Extensiones
 asistencia
 avance
-características
 caso de uso
+casos de prueba
+casos de pruebas
 casos de uso
-ceres
 configuracion
 Configuración a productivo
-Configuración en Productivo Gestion de Mercadeo - CX
+Configuración en Productivo Gestion de Mercadeo CX
 Configuración en Productivo HCM FASE 1
 contrato
 control
 control de asistencia
-correo
-correo electronico
 Cutoff
-cx
-CX
-CX (Servicios y Ventas)
 desarrollo
+despliegue
 diseño
 diseño del sistema
 documento
-documento de diseño
 Documento de Diseño Funcional
+documento de diseño
 Documento de Diseño Técnico de Integraciones y Extensiones
-ejecución
-email
-EPM
-ERP
+ejecucion
+enfoque
+entregable
 especificacion
 especificaciones
 evidencia
 Evidencia de ejecución
+extension
 extensiones
 familiarizacion
 Fase
-Fase 1
-Fase 2
-Fase I
-Fase II
-Fase Refine
 funcional
 funcionales
 funcionalidades
 general
-HCM
-HCM (Fase 1)
-HCM (Fase 2)
-incumplimiento
-incumplimientos
+habilitar
 informe
-integración
 integraciones
 Integraciones y Extensiones
+integración
 legal
 manual
-marketing
+manuales
 matriz
-mercadeo
-modulo
-modulos
-OTM
+metodologia
+objetivos
 Plan de Soporte
-productivo
+pre produccion
+pre-produccion
+preproduccion
+produccion
 proyecto
 proyecto ceres
 prueba
@@ -113,56 +70,88 @@ rechazo
 rechazos
 referencia
 referencia de cambios
+refinamiento
 refine
-reunion
-rfp
 requerimiento
 requerimientos
 requisito
 requisitos
+reunion
+revision
 revisión
+rfp
 seguimiento
 servicio
 Servicios
 sesion
 soporte
+Talleres
+tecnico
+test
+test script
+test scripts
+testing
+train the trainers
+Validación de configuración
+
+### Marketing / Ventas
+marketing
+mercadeo
+venta
+ventas
+
+### Infraestructura / Tecnología
+Ach
+balanceador
+correo
+correo electronico
+email
+enable
+ERP
+focus
+ieee
+inconformidad
+inconformidades
+incumplimiento
+incumplimientos
+infraestructura
+modulo
+modulos
+mongodb
+on premise
+oracle
+OTM
+performance
+servidor
+stress
+unitarias
+
+### Otros
+informe
+desarrolladas
+apple
+safari
+internet
+adaptable
+experiencia
+usuario
+responsivo
+responsive
+ios
+web
+windows
+phone
+sub modulo
 sub-modulo
 sub-modulos
 submodulo
 submodulos
-Talleres
-tecnico
-test
-train the trainers
-Validación de configuración
-venta
-ventas
-enfoque
-focus
-refinamiento
-refine
-habilitar
-enable
-entregable
-revision
-test script
-test scripts
-inconformidad
-inconformidades
-metodologia
-True Cloud Method
-on premise
-testing
-manual
-manuales
-performance
-tunning
-stress
-decimal
-decimales
-vertical
-verticales
 transversal
 transversales
-extension
-unitarias
+vertical
+verticales
+FNT 155
+correcion
+error
+errores
+supervision
